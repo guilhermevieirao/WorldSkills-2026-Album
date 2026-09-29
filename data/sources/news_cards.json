@@ -1,0 +1,570 @@
+[
+ {
+  "region": "Sudeste",
+  "name": "Gustavo Carvalho Santos",
+  "job": "Mecânica Industrial (#01)",
+  "city": "Guarulhos (SP)",
+  "story": "Gustavo foi inscrito por uma prima no curso de Manutenção de Máquinas Industriais do SENAI aos 16 anos, enquanto trabalhava no ferro-velho do pai. Ele pensava que aprenderia a consertar carros, mas se apaixonou pela Mecânica Industrial. Ele está entre os competidores há mais tempo no processo, perto de completar cinco anos de competição.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_1.jpg"
+ },
+ {
+  "region": "Nordeste",
+  "name": "Luiz Fernando Barbosa Santos",
+  "job": "Infraestrutura de Redes TIC (#02)",
+  "city": "Jaboatão dos Guararapes (PE)",
+  "story": "Luiz Fernando começou no técnico em Desenvolvimento de Sistemas do SENAI, movido pelo interesse em Tecnologia da Informação, e iniciou a jornada na WorldSkills ainda durante o curso. O momento mais marcante antes da competição foi integrar a Seleção Brasileira de Robótica e disputar um mundial de robótica na Grécia, em 2024. Ele treinou durante o 3º ano do ensino médio e abriu mão do Enem 2025 para competir na WorldSkills Américas, no Chile, de onde voltou com a primeira medalha de ouro internacional. Depois, ainda passou em um vestibular para Engenharia Mecânica.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_2.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Erick da Cruz Fanka",
+  "job": "Tecnologia em Segurança Inteligente (#03)",
+  "city": "Canoas (RS)",
+  "story": "Erick veio de uma cidade de cerca de 40 mil habitantes sem SENAI, onde trabalhava como servente de pedreiro, até que um convite do tio o levou a morar fora e fazer o curso técnico que mudou sua vida. O momento mais marcante foi o treinamento que já participou em Shanghai, onde viu de perto a dimensão da competição.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_3.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Daniel Henrique Bianquini Moraes Oliveira",
+  "job": "Mecatrônica (#04)",
+  "city": "Betim (MG)",
+  "story": "Daniel entrou no técnico em Mecatrônica do SENAI por um projeto do Governo Estadual para alunos da rede pública, incentivado pelo pai, ex-funcionário do SENAI, que contou sobre a WorldSkills. Daniel começou a treinar em outubro de 2022, ficou com o bronze no nacional de 2023 e, ao lado da dupla, passou 2024 e 2025 construindo uma metodologia própria até serem campeões nacionais. Logo em seguida, os dois conquistaram o título no America Skills, em novembro de 2025, e um amistoso na Alemanha, em abril de 2026.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_4.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Arthur Maia",
+  "job": "Mecatrônica (#04)",
+  "city": "Minas Gerais (MG)",
+  "story": "Arthur entrou no técnico em Mecatrônica do SENAI pelo programa estadual Trilhas do Futuro e, meses depois, foi indicado pelos professores ao processo seletivo da WorldSkills. O momento mais marcante foi o amistoso na Alemanha, disputada dentro da Feira de Hannover, a maior feira de automação industrial do mundo. Seu pai foi instrutor do SENAI e treinador estadual de Revestimentos Cerâmicos, e é por causa da WorldSkills que Arthur conquistou uma bolsa integral na faculdade SENAI.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_4_2.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Welinton Staleng Mendonça",
+  "job": "Desenho Mecânico em CAD (#05)",
+  "city": "Contagem (MG)",
+  "story": "Welinton começou num curso de aprendizagem em Desenho Mecânico do SENAI e um ano depois de trabalhar na área surgiu a oportunidade da WorldSkills. O jovem disputou duas vezes, foi vice na primeira e campeão na segunda. Ele treinou sozinho, sem conhecer outros competidores, por um bom tempo.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_5.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Leonardo Enrique Cruz",
+  "job": "Tornearia a CNC (#06)",
+  "city": "Bauru (SP)",
+  "story": "Leonardo começou no SENAI em 2021, no curso de Mecânico de Usinagem, e foi ao fim dele que despertou o interesse pela programação CNC. Um convite do professor o levou à Tornearia a CNC. O momento mais marcante foi vencer a etapa estadual em São Paulo, quebrando a sequência de quatro edições seguidas de uma mesma escola na modalidade.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/6_1.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Alisson Gabriel Genova de Oliveira",
+  "job": "Fresagem a CNC (#07)",
+  "city": "Hortolândia (SP)",
+  "story": "Alisson se interessou pela ocupação Fresagem a CNC ao ver as peças que os três irmãos, todos formados em Mecânica de Usinagem, traziam da formatura. Apesar de ter se especializado nessa área, o desejo dele era ser da área da Tecnologia da Informação e, para o futuro, pretende aprender a aplicar as duas juntamente no trabalho.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_7.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Renan Gabriel Bernardes Coêlho",
+  "job": "Desenvolvimento de Aplicativos Móveis (#08)",
+  "city": "Quintana (SP)",
+  "story": "Renan começou no segundo semestre de 2022, no técnico em Desenvolvimento de Sistemas do SENAI. Quando criança, ele sonhava em ser jogador de futebol e usar a camisa 8 pela seleção, hoje diz estar realizando esse sonho na modalidade #08 da WorldSkills.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_8.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Artur Fiorentino",
+  "job": "Soluções em Softwares para Negócios (#09)",
+  "city": "Santo André (SP)",
+  "story": "Artur começou na área de Tecnologia ao ingressar no curso técnico do SENAI, na área de Cyber e IA. Após acertar 29 das 60 questões na prova de entrada, achou improvável conseguir a vaga, mas foi aprovado e iniciou uma trajetória que o levaria à WorldSkills. Conheceu a competição logo no início do curso e, em janeiro de 2024, começou os treinamentos. O momento mais marcante foi conquistar a vaga para representar o Brasil na WorldSkills Shanghai 2026, resultado de disciplina, dedicação e resiliência ao longo da preparação.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_9.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Felipe de Souza Rocha",
+  "job": "Soldagem (#10)",
+  "city": "Pederneiras (SP)",
+  "story": "Felipe entrou na Soldagem por acaso, ao completar 18 anos em busca de uma profissão, e se apaixonou pelo processo no SENAI.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_10.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Gabriel Spinola Mendes da Silva",
+  "job": "Testagem de Software (#11)",
+  "city": "Contagem (MG)",
+  "story": "Gabriel começou a programar aos 12 anos, motivado pelo interesse em videogames e pela vontade de criar seus próprios jogos. Aos 14, enquanto buscava uma forma de trabalhar para ajudar financeiramente em casa, encontrou no curso de aprendizagem do SENAI um caminho para conciliar trabalho e estudos. Lá, conheceu um professor, que aprimorou sua técnica, o ajudou a conquistar os primeiros trabalhos e deu visibilidade ao projeto de TCC. A experiência abriu portas e o aproximou da WorldSkills, levando-o à seletiva para representar Minas Gerais na etapa nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_11.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Bruno Canuto de Souza",
+  "job": "Revestimentos Cerâmicos (#12)",
+  "city": "Ponte Nova (MG)",
+  "story": "Bruno entrou no SENAI aos 14 anos na área de Tecnologia, mas, aos 15, foi convidado a competir em Revestimentos Cerâmicos por seu desempenho, em uma modalidade completamente diferente de sua formação. Após mais de um ano de treinamento, conquistou o título nacional. O momento mais marcante foi subir ao pódio da WorldSkills Brasil e perceber a própria evolução: do garoto de 15 anos que não conhecia a área ao campeão nacional, aos 17 anos, tornando-se um dos campeões mais jovens da história da competição no Brasil.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_12.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Lucas Eduardo Mortari",
+  "job": "Funilaria Automotiva (#13)",
+  "city": "Bauru (SP)",
+  "story": "Lucas veio do técnico Automotivo do SENAI, onde conheceu Mecânica, Elétrica, Pintura e Funilaria antes de se destacar e ser convidado para a competição. Antes de ingressar no ensino técnico, o jovem era empacotador de mercado. Ele conta que \"largou tudo\" para entrar no SENAI e hoje uma das maiores alegrias é ter o reconhecimento da família diante de quem ele se tornou.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_13.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Davi da Silva Padilha",
+  "job": "Manutenção de Aeronaves (#14)",
+  "city": "Florianópolis (SC)",
+  "story": "Davi descobriu a profissão de mecânico de aeronaves em vídeos no YouTube antes de entrar no curso do SENAI. Diferente dos demais, ele começou a treinar para a competição em fevereiro deste ano, com uma grade intensa e corrida.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_14.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Matteo Victor Barbosa",
+  "job": "Instalações Hidráulicas (#15)",
+  "city": "Barbacena (MG)",
+  "story": "Matteo começou sua trajetória na área por meio da divulgação das seletivas da WorldSkills, onde conheceu a construção civil, área diferente da que cursava antes que era Design de Móveis. O interesse pela competição surgiu após uma professora apresentar o projeto Trilhas do Futuro e incentivar os alunos a conhecerem diferentes possibilidades profissionais. Na primeira prova, sentiu a pressão de competir, quando não conseguiu concluir um módulo, saiu chorando da área e voltou para a etapa seguinte decidido a não se deixar abalar.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_15.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "João Lucas Ramos Batista",
+  "job": "Eletrônica (#16)",
+  "city": "Pindamonhangaba (SP)",
+  "story": "João Lucas sempre gostou de tecnologia e programação e aprendia por vídeos até que, numa aula experimental no SENAI, foi convidado pelo treinador Pedro Henrique Jesus a representar sua cidade na WorldSkills. Conforme avançou nas seletivas, João notou que era a primeira vez que Pindamonhangaba teria um representante nas fases mais avançadas da competiçã e, com isso, ele percebeu que essa vitória era de toda a cidade.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_16.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "André Brizido Basilio",
+  "job": "Tecnologia Web (#17)",
+  "city": "São Paulo (SP)",
+  "story": "André teve o primeiro contato com programação ainda no Ensino Médio, quando um professor de Administração ofereceu, como atividade extra, uma aula sobre outra área no último dia de aula do ano. A princípio, ele não se interessou por Tecnologia Web. A experiência, no entanto, despertou sua curiosidade e acabou mudando seus planos profissionais. Hoje, André é referência nacional na ocupação.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_17.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Rhuan Ferreira Barra",
+  "job": "Instalações Elétricas (#18)",
+  "city": "Limeira (SP)",
+  "story": "Rhuan já havia competido em Robótica Móvel Autônoma e ficado em segundo lugar quando, ainda no hotel da competição, foi convidado pelo atual treinador a treinar Instalações Elétricas. Ele começou uma semana depois. Dois meses antes do estadual, uma infecção e uma gastrite o fizeram perder mais de 10 kg e ele chegou a acreditar que não competiria. Mesmo sem estar 100%, voltou a tempo de vencer a etapa e se classificar para o nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_18.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Kawan Costa Alves de Souza",
+  "job": "Controle Industrial (#19)",
+  "city": "São Paulo (SP)",
+  "story": "Para Kawan, a premiação nacional, em Brasília (DF), foi o momento mais marcante até agora.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_19.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Davi da Silva Aleixo Ignacio",
+  "job": "Construção em Alvenaria (#20)",
+  "city": "Curitiba (PR)",
+  "story": "Davi começou pelo técnico em Edificações do SENAI. Tímido e dono de um bigode marcante, o jovem diz sentir alegria em cada projeto de Alvenaria que conclui.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_20.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Guilherme Rodrigues Lunardi",
+  "job": "Sistemas Drywall (#21)",
+  "city": "São Leopoldo (RS)",
+  "story": "Guilherme entrou no curso de Edificação Predial do SENAI em 2022 e descobriu ali a paixão pelo drywall. Conquistou o primeiro título nacional em 2023, mas em 2024, às vésperas de disputar a etapa internacional na França, precisou interromper os treinos por complicações de saúde. Voltou em 2025 com apenas quatro meses de preparo e conquistou o segundo título nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_21.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Izabela Lopes Lima",
+  "job": "Pintura Decorativa (#22)",
+  "city": "Minas Gerais (MG)",
+  "story": "Izabela sempre gostou de pintar e de competir, e viu na ocupação a chance de unir as duas paixões. O momento mais marcante para ela até agora foi a etapa nacional, em que tudo era novo, seguida da conquista do ouro.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_22.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Gustavo Gabriel Dutra Alves",
+  "job": "Robótica Móvel Autônoma (#23)",
+  "city": "Contagem (MG)",
+  "story": "Gustavo cursava técnico em Mecatrônica no SENAI quando foi chamado para o processo seletivo da WorldSkills. O momento mais marcante foi finalizar a primeira prova completa da modalidade, que exigiu aprender tudo do zero, sem material de referência disponível. Antes de competir, Gustavo trabalhava na lida com o gado, na roça, com os pais.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_23.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Artur Barud",
+  "job": "Robótica Móvel Autônoma (#23)",
+  "city": "Ribeirão das Neves (MG)",
+  "story": "Arthur recebeu a proposta de entrar na competição logo depois de terminar o técnico em Mecatrônica e aceitou o desafio (caindo de paraquedas), sem saber quase nada sobre a ocupação. O momento mais marcante de sua trajetória até agora foi a medalha de ouro na etapa nacional. Ele diz gostar de criar suas próprias soluções, sem se prender a um padrão imposto por alguém.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_23_2.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Enzo Thomaz Pasito",
+  "job": "Movelaria (#24)",
+  "city": "Ribeirão Pires (SP)",
+  "story": "Enzo ficou sabendo da competição por meio do curso de Movelaria e o momento mais marcante de sua trajetória até agora foi vencer a etapa estadual.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_24.jpg"
+ },
+ {
+  "region": "Centro-Oeste",
+  "name": "João Vitor Corrêa Maul",
+  "job": "Marcenaria de Estruturas (#25)",
+  "city": "Cuiabá (MT)",
+  "story": "João Vitor entrou no SENAI e, primeiro, participou de uma equipe de robótica na categoria FIRST Robotics Competition (FRC), que é mais avançada e já utiliza materiais como madeira e acrílico na estrutura dos robôs. Com o bom desempenho, um dos mentores o chamou para as seletivas da ocupação Marcenaria de Estruturas e alguma experiência, com o incentivo do pai, foram suficientes para abraçar o desafio.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_25.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Phelipe Santana Galindo",
+  "job": "Carpintaria (#26)",
+  "city": "Osasco (SP)",
+  "story": "Phelipe entrou na Carpintaria por um curso de 160 horas para construtor de móveis. Antes de chegar à modalidade certa, competiu no estadual pela Movelaria, onde conquistou o bronze. Dois meses depois, foi convocado para representar a Carpintaria. O momento que mais marcou sua trajetória foi ver a equipe do Departamento Regional gritando seu nome na premiação do nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_26.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Ronie Henrique de Almeida",
+  "job": "Joalheria (#27)",
+  "city": "Limeira (SP)",
+  "story": "Ronie recebeu o convite de uma professora, ex-competidora medalhista de prata na edição de 2013, na Alemanha. O momento mais marcante foi conquistar a medalha de ouro na etapa nacional, que devolveu a São Paulo uma vaga em Joalheria depois de cerca de 12 anos.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_27.jpg"
+ },
+ {
+  "region": "Norte",
+  "name": "Karol Casique da Silva",
+  "job": "Florista (#28)",
+  "city": "Amazonas (AM)",
+  "story": "Karol foi buscar um curso técnico para conseguir horas complementares da faculdade e, sem esperar, acabou na WorldSkills. O momento mais marcante foi vencer o ouro que faltava para seu estado, na cerimônia em que mais chorou.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_28.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Angélica China Matsuda",
+  "job": "Cabeleireiro (#29)",
+  "city": "Paraná (PR)",
+  "story": "Angélica começou na infância, fazendo tranças em amigas e no cabelo da mãe, até decidir transformar aquilo em profissão. Ela percebeu que tinha encontrado o caminho certo quando venceu a competição estadual e foi avançando na competição.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_29.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Maria Eduarda Guerreiro da Silveira",
+  "job": "Estética e Bem-Estar (#30)",
+  "city": "Porto Alegre (RS)",
+  "story": "Maria Eduarda começou no curso de Maquiagem do Senac e o momento mais marcante de sua trajetória até agora foi vencer a etapa nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_30.jpg"
+ },
+ {
+  "region": "Centro-Oeste",
+  "name": "Myllena Vitória de Arruda Nogueira",
+  "job": "Tecnologia da Moda (#31)",
+  "city": "Cuiabá (MT)",
+  "story": "Myllena entrou no SENAI em 2023 para um curso de Corte e Costura sem saber que estava na última seletiva nacional daquele ano. O momento mais marcante foi perceber, num simulado em que errou justo o que mais temia (uma gola com lapela), que havia encontrado não só uma profissão, mas algo que a fazia genuinamente feliz.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_31.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Maria Luiza Silva Alves",
+  "job": "Confeitaria (#32)",
+  "city": "Sabará (MG)",
+  "story": "Maria Luiza cresceu ajudando a mãe a fazer doces para aniversários e páscoas e, aos 17 anos, fez um curso de aprendizagem em Confeitaria, onde conheceu a WorldSkills e se inscreveu assim que pôde. Depois de tanto tempo lidando com insumos específicos, já consegue diferenciar tipos de chocolate só pelo aroma. Para ela, o momento mais marcante ainda está por vir, na abertura da WorldSkills 2026.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_32.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Kauan Henrique Martinello Nazario",
+  "job": "Tecnologia Automotiva (#33)",
+  "city": "Cascavel (PR)",
+  "story": "Kauan entrou na área em 2019, quando ganhou uma bolsa que unia o ensino médio no SESI ao técnico do SENAI, e escolheu Manutenção Automotiva entre os cursos disponíveis. Depois de formado, trabalhou mais de dois anos no mercado até o professor convidá-lo a voltar para os treinos, foi quando ele largou o emprego para se dedicar.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_33.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Gustavo Ramos Freitas Argoud",
+  "job": "Culinária (#34)",
+  "city": "Porto Alegre (RS)",
+  "story": "Gustavo se apaixonou pelo rigor e pela precisão da cozinha profissional ao entrar no curso de Gastronomia. Nas seletivas, quando percebeu que a disciplina do treino sob pressão trazia resultado, passou a acreditar no próprio potencial. Fora da cozinha, o jovem leva a mesma disciplina para a rotina de treinos físicos.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_34.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Matheus Henrique dos Santos da Silva",
+  "job": "Serviços de Restaurante (#35)",
+  "city": "Curitiba (PR)",
+  "story": "Matheus teve o primeiro contato com a profissão num curso de Garçom no Senac em 2022, onde conheceu o treinador que já havia competido na WorldSkills Alemanha 2013. Os momentos mais marcantes foram vencer o nacional, com medalha de competidor destaque, e o primeiro lugar na WorldSkills Croácia, em maio de 2026. Ele é soldado da Força Aérea Brasileira e concilia o serviço militar com os treinos.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_35.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Lucas Fonseca Marques",
+  "job": "Pintura Automotiva (#36)",
+  "city": "São Paulo (SP)",
+  "story": "Lucas já trabalhava numa oficina, sem ninguém para lhe ensinar as técnicas de Pintura Automotiva, quando fez um curso no SENAI e conheceu a WorldSkills. No início da carreira, costumava dizer que um dia seria referência na área. Hoje, às vésperas da competição, sente que está se tornando aquilo que projetava para si mesmo.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_36.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Juan Pablo Ramos de Souza",
+  "job": "Construção de Espaços Verdes (#37)",
+  "city": "Minas Gerais (MG)",
+  "story": "Juan Pablo entrou na área de Construção de Espaços Verdes por meio dos cursos de formação profissional e, aos poucos, foi se identificando com a área e buscando se aperfeiçoar. O momento mais marcante da trajetória foi a conquista da medalha de ouro na WorldSkills Brasil 2025, que garantiu a oportunidade de representar o Brasil na WorldSkills Shanghai 2026.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_37.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Leticia Gabrielle dos Santos Rosa",
+  "job": "Construção de Espaços Verdes (#37)",
+  "city": "Minas Gerais (MG)",
+  "story": "Leticia entrou no SENAI sem saber quase nada da área e, enquanto treinava, cursava também o técnico em Topografia. Na época, ela dormia cerca de quatro horas por noite e chegou a competir com dengue para conquistar essa oportunidade. Letícia é a primeira mulher a representar o Brasil na WorldSkills em Construção de Espaços Verdes.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_37_2.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Keyla Carvalho Dias",
+  "job": "Sistemas de Refrigeração (#38)",
+  "city": "São Paulo (SP)",
+  "story": "Keyla começou o técnico em 2022 sendo a única mulher entre 40 alunos e foi convidada por um professor a integrar a seleção da WorldSkills em 2023. No nacional, mesmo com imprevistos no terceiro dia de prova, persistiu até vencer e se tornou a primeira mulher campeã na modalidade de Sistemas de Refrigeração.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_38.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Luan Antunes Batista",
+  "job": "Gestão de Sistemas de Redes TI (#39)",
+  "city": "Mauá (SP)",
+  "story": "Luan conheceu a ocupação ao fazer uma prova na unidade do SENAI, quando o antigo competidor brasileiro, que havia participado da WorldSkills Lyon, o convidou para integrar a modalidade. O momento mais marcante de sua trajetória, porém, foi superar o período após o falecimento do pai, em dezembro de 2025. Treinador e atleta, ele foi uma de suas principais referências e, ao lado da mãe, um dos maiores apoiadores na WorldSkills. Mesmo enfrentando dificuldades para treinar, estudar e manter a rotina, Luan encontrou forças para se reinventar e seguir em frente, levando consigo a certeza de que o pai estaria orgulhoso.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_39.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Brenda Gomes Virgens",
+  "job": "Tecnologia em Design Gráfico (#40)",
+  "city": "Carapicuíba (SP)",
+  "story": "Brenda começou na área gráfica por meio de um curso de Aprendizagem Industrial no SENAI, enquanto trabalhava. Foi apresentada à WorldSkills por um professor, que buscava um novo competidor para substituir o anterior, que havia deixado a competição para servir ao Exército. Ela decidiu fazer a seletiva de última hora e, após ser aprovada, pediu demissão para se dedicar à preparação. Durante as seletivas nacionais, Brenda venceu um concurso sobre a ODS-18 (igualdade étnico-racial), com arte que representa o tema na ONU desde 2024.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_40.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Cássia Eloá Martins de Oliveira",
+  "job": "Cuidados Sociais e de Saúde (#41)",
+  "city": "Porto Alegre (RS)",
+  "story": "Cássia começou no técnico em Enfermagem em 2023 e, depois da prata no nacional de 2025, foi convocada para representar o Brasil após a desistência da primeira colocada. O momento mais marcante foi conhecer Shanghai em maio deste ano, algo que nunca imaginou viver.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_41.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Rafael Alves Scotti",
+  "job": "Próteses Dentarias (#42)",
+  "city": "Rio de Janeiro (RJ)",
+  "story": "Rafael seguiu a influência da mãe, dentista, e foi buscar o curso de Próteses Dentarias no Senac. Hoje já é estudante de Odontologia e planeja somar o conhecimento técnico ao da faculdade. Pra ele, ter sido selecionado para representar o Brasil na modalidade foi o momento mais marcante até agora.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_42.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Gabriel Moreira da Silva",
+  "job": "Vendas no Varejo (#43)",
+  "city": "Belo Horizonte (MG)",
+  "story": "Gabriel era aluno da aprendizagem em Vendas no Varejo no Senac quando foi selecionado para representar o Brasil numa modalidade estreante na WorldSkills: ele será o primeiro competidor da história na ocupação. O momento mais marcante foi o primeiro encontro da delegação brasileira, quando percebeu de fato o tamanho da competição e que representaria o país. Para se preparar para uma prova 100% em inglês, sem direito a intérprete, aprendeu o idioma com fluência em seis meses.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_43.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Ryana Pacheco",
+  "job": "Vitrinismo (#44)",
+  "city": "Nova Friburgo (RJ)",
+  "story": "Ryana começou num curso de Produção de Moda no SENAI em agosto de 2025 e, meses depois, foi chamada direto para a fase mundial. Contar a notícia para a mãe e para as amigas de infância foi um momento memorável.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_44.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Erán Martínez Ramos",
+  "job": "Design de Mídias Interativas Digitais (#45)",
+  "city": "Curitiba (PR)",
+  "story": "Erán começou ainda no ensino fundamental editando vídeos, entre jogos e curiosidades, até que tarefas escolares de audiovisual despertaram o interesse pelo design. Ele se descreve como apaixonado por astronomia, astronáutica e robótica.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_45.jpg"
+ },
+ {
+  "region": "Centro-Oeste",
+  "name": "Geovanny Gabriel Quirino Das Neves",
+  "job": "Construção em Concreto (#46)",
+  "city": "Cuiabá (MT)",
+  "story": "Geovanny começou na WorldSkills ainda no início do Ensino Médio, integrado a um curso técnico, quando os professores apresentaram a competição em sala de aula. A partir daí, foi atrás e passou por diferentes processos seletivos até chegar onde está hoje.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_46_2.jpg"
+ },
+ {
+  "region": "Centro-Oeste",
+  "name": "Paulo Eduardo Nascimento de Jesus",
+  "job": "Construção em Concreto (#46)",
+  "city": "Cuiabá (MT)",
+  "story": "Paulo Eduardo começou fazendo um curso técnico no SENAI sem relação com sua área atual e o momento mais marcante de sua trajetória foi erguer sua primeira estrutura de concreto.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_46.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Raiane Vitoria Suith Alves",
+  "job": "Panificação (#47)",
+  "city": "Ribeirão Preto (SP)",
+  "story": "Raiane começou em 2023, em um curso de aprendizagem em Alimentos, onde se destacou e foi convidada para o processo seletivo de Panificação. Segundo ela, o SENAI a transformou como pessoa e como profissional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_47.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Gustavo Vitor Martins Pereira de Sousa",
+  "job": "Indústria 4.0 (#48)",
+  "city": "MG",
+  "story": "Gustavo começou no técnico em Desenvolvimento de Sistemas e foi indicado por um professor para a seleção de novos competidores de Indústria 4.0 em 2024. Ele segue os passos do irmão, medalhista de prata de CAD na etapa nacional em 2014. Antes de competir, Gustavo já havia sido monitor do curso, o que considera o momento mais marcante de sua trajetória.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_48_1.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "João Victor Caliaro Fonseca",
+  "job": "Indústria 4.0 (#48)",
+  "city": "Belo Horizonte (MG)",
+  "story": "João Victor vem do curso de Desenvolvimento de Sistemas e, mesmo com a modalidade de Indústria 4.0 exigindo uma programação bem diferente do que estava acostumado, foi se adaptando ao lado da dupla. O momento mais marcante foi a primeira viagem internacional de sua vida, ao Chile, de onde voltaram como campeões da ocupação.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_48_12.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Diogo Mathias",
+  "job": "Tecnologia de Veículos Pesados (#49)",
+  "city": "Lins (SP)",
+  "story": "Diogo se interessou pela competição quando o diretor de sua escola apresentou a WorldSkills e contou a história de um ex-aluno premiado com o Albert Vidal em 2015, prêmio que leva o nome do fundador da WorldSkills Internacional. Assim, Diogo passou para o curso de Mecânico de Veículos Pesados, foi convidado pelo professor a competir e venceu o nacional, garantindo a vaga para a China.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_49.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Giovanna Candido da Silva",
+  "job": "Arte Digital 3D para Jogos (#50)",
+  "city": "São Paulo (SP)",
+  "story": "Giovanna cursava Mecânica de Usinagem quando conheceu Arte Digital 3D para Jogos em um evento na própria escola e, naquele momento, ela mudou de rumo. Durante a preparação para a WorldSkills Shanghai, Giovanna ficou em segundo lugar na Friendly Competition em Hong Kong.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_50.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Maria Eduarda Alves Lourenço",
+  "job": "Logística & Envios Internacionais (#51)",
+  "city": "São Paulo (SP)",
+  "story": "Maria Eduarda tinha 14 anos e cursava o início do Ensino Médio, quando começou o curso de Operador Logístico no SENAI. Sem ainda saber qual área queria seguir, conheceu a WorldSkills em 2024, quando o treinador apresentou a competição e a convidou a participar. A competição foi também um processo de descoberta pessoal e profissional, que lhe trouxe conhecimento, confiança e a certeza de que poderia ir muito além do que imaginava.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_51.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "João Victor Vieira Alves",
+  "job": "Tecnologia Química Laboratorial (#52)",
+  "city": "Sete Lagoas (MG)",
+  "story": "João Victor descobriu a paixão pela Química no técnico do SENAI e foi convidado pela treinadora Betânia Araújo Faria a integrar a delegação mineira em 2025. Para ele, ter conquistado o ouro na etapa nacional foi uma forma de retribuir à instrutora e à escola que transformaram sua vida.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_52.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Gabriel Henrique Gobato de Oliveira",
+  "job": "Computação em Nuvem (#53)",
+  "city": "Londrina (PR)",
+  "story": "Gabriel começou no técnico em Desenvolvimento de Sistemas do SENAI de Londrina, de onde partiu para o estadual do Paraná em 2024 e o nacional em 2025. O momento mais marcante até agora foi a medalha de ouro na etapa nacional.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_53.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Arthur Abreu",
+  "job": "Segurança Cibernética (#54)",
+  "city": "MG",
+  "story": "Arthur sempre gostou de tecnologia e começou no técnico em Desenvolvimento de Sistemas do SENAI, de onde partiu para a seletiva de Segurança Cibernética. Ele iniciou os treinamentos no fim de 2022 e disputou seu primeiro nacional em 2023, conquistando a prata. Após quase dois anos de preparação, voltou à competição, venceu o nacional novamente e se tornou representante brasileiro na modalidade. Em 2025, conquistou também o ouro no Américas Skills, no Chile, e segue treinando para representar o Brasil em Shanghai.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_54.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "João Carlos de Farias",
+  "job": "Segurança Cibernética (#54)",
+  "city": "Vespasiano (MG)",
+  "story": "João Carlos entrou no SENAI aos 14 anos sem muito interesse por TI, até que um professor apresentou a WorldSkills e prometeu indicar quem se destacasse, o que o fez estudar além do exigido. Segundo ele, o momento mais marcante não foi um único instante, mas a forma como a competição moldou sua maturidade, disciplina e ética ao longo do caminho. \"Tanto eu, como minha família, agradecemos demasiadamente o que a WorldSkills fez por nós\".",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_54_2.jpg"
+ },
+ {
+  "region": "Nordeste",
+  "name": "Leonardo Santos Bertho",
+  "job": "Tecnologia da Água (#55)",
+  "city": "Salvador (BA)",
+  "story": "Leonardo ficou sabendo da WorldSkills enquanto cursava o Técnico em Petroquímica no SENAI, quando a competição foi apresentada aos alunos e foram abertas as inscrições para a seletiva regional da Bahia. Mesmo sem muitas expectativas, por considerar que ainda não tinha uma boa base de conhecimentos, decidiu participar e passou a se dedicar cada vez mais a cada etapa. Durante a preparação, precisou conciliar 8 a 10 horas diárias de treinamento com as 3 horas do curso técnico à noite e cerca de 1h30 de deslocamento por dia. A disciplina e a constância foram fundamentais para seguir avançando e manter o foco no objetivo.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_55.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Natália da Rosa Corso",
+  "job": "Recepção de Hotel (#56)",
+  "city": "Porto Alegre (RS)",
+  "story": "Natália sonhava em ser comissária de bordo e sempre gostou do contato com o público, interesse que a levou a ser jovem aprendiz no Senac, onde conheceu a competição. Ela conta que a ocupação é repleta de desafios para além do famoso check-in e check-out.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_56.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Marcus Vinicius Santos Oliveira",
+  "job": "Manufatura Aditiva (#57)",
+  "city": "Contagem (MG)",
+  "story": "Marcus foi apresentado ao universo da Manufatura Aditiva por Thiago Carvalho, que atualmente é expert nos Emirados Árabes. A premiação nacional e a ligação da família comemorando a conquista foi o auge da trajetória do profissional até hoje.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_57.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Catarina Matos dos Santos Costa da Fonseca",
+  "job": "Construção Digital – BIM (#58)",
+  "city": "Belo Horizonte (MG)",
+  "story": "Catarina entrou no técnico em Edificações em 2021, inspirada pela avó que também é técnica na área, e conheceu a WorldSkills em 2022. Depois do bronze em 2023 e do ouro em 2025, o momento mais marcante foi vencer o desempate que definiu sua vaga para o mundial. Antes de se apaixonar pela construção civil, foi bailarina no Palácio das Artes e chegou a fazer teste para o Bolshoi.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_58_1.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Rafael Seikiti Nishihara Candido",
+  "job": "Tecnologia em Design Industrial (#59)",
+  "city": "Bauru (SP)",
+  "story": "Rafael começou em 2023 e, aos poucos, descobriu a paixão por transformar ideias em algo real por meio do Design. O momento mais marcante foi desenvolver as medalhas das etapas estadual e nacional da própria competição, onde deixou sua marca antes mesmo de disputar o mundial. Sua família morava no Japão e voltou ao Brasil para que ele nascesse aqui. Hoje, sua trajetória o leva de volta à Ásia.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_59.jpg"
+ },
+ {
+  "region": "Sul",
+  "name": "Kaique William Ventura Camacho",
+  "job": "Tecnologia Optoeletrônica (#60)",
+  "city": "Campo Mourão (PR)",
+  "story": "Kaique conheceu a WorldSkills pela própria família, que trabalhou no SENAI e falava com entusiasmo do projeto. Esse cotidiano despertou a curiosidade do competidor até virar paixão pela Tecnologia Optoeletrônica. O momento mais marcante foi descobrir que seria o representante do Brasil na modalidade, uma mistura de responsabilidade e orgulho por competir com potências tecnológicas.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_60_1.jpg"
+ },
+ {
+  "region": "Centro-Oeste",
+  "name": "João Vitor Da Silva Gomes",
+  "job": "Tecnologia de Veículos Ferroviários (#61)",
+  "city": "Rondonópolis (MT)",
+  "story": "João Vitor começou em uma equipe de FIRST Robotics Competition (FRC) de robótica por meio do SENAI e passou pela Olimpíada do Conhecimento na Mecânica Industrial antes de migrar para Tecnologia de Veículos Ferroviários, modalidade que estreia este ano na WorldSkills.Quando recebeu a notícia da convocação e ligou para a família, que estava viajando, ele ouviu do pai algo que nunca havia ouvido em voz alta antes: \"Eu falei para sua mãe. Eu sabia que você conseguiria, filho. Estou muito orgulhoso de você. Eu te amo.”",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_61.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Kevin Gabriel Gonçalves Silva",
+  "job": "Energia Renovável (#62)",
+  "city": "Birigui (SP)",
+  "story": "Kevin foi convidado a competir em 2024, ainda no segundo ano do curso de Eletricista de Manutenção Eletroeletrônica, e venceu a etapa estadual. Ele é o primeiro competidor de Tecnologia de Energia Verde, e o primeiro na WorldSkills, de sua escola.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_62.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Alexandre Isaque Almeida Rodrigues",
+  "job": "Integração de Sistemas Robóticos (#63)",
+  "city": "Contagem (MG)",
+  "story": "Alexandre começou no técnico em Mecatrônica em 2022 imaginando que a área fosse ligada ao setor Automotivo, onde já trabalhava como eletricista na oficina do pai, até descobrir a paixão pela indústria. O momento mais marcante foi o dia da premiação da seletiva nacional, quando venceu e viu amigos que treinaram com ele também ganharem.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_63.jpg"
+ },
+ {
+  "region": "Sudeste",
+  "name": "Bruno Gabriel Soares de Oliveira",
+  "job": "Integração de Sistemas Robóticos (#63)",
+  "city": "Betim (MG)",
+  "story": "Bruno começou depois de concluir o curso de Automação Industrial, quando recebeu três opções de modalidade: Robótica Móvel Autônoma, Indústria 4.0 e Integração de Sistemas Robóticos. Ele não teve dúvida sobre qual escolher,pois já tinha curiosidade pela área de Sistemas Robóticos. O momento mais marcante do treinamento até hoje foi a cerimônia de encerramento nacional, ao ver todos os amigos de treino vencerem junto com ele.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_63_2.jpg"
+ },
+ {
+  "region": "Nordeste",
+  "name": "Caio Vinícius Galvão de Sousa Azevedo",
+  "job": "Sistemas Aéreos Não-Tripulados (#64)",
+  "city": "Jaboatão dos Guararapes (PE)",
+  "story": "Caio conheceu a WorldSkills quando ainda fazia o curso técnico em Desenvolvimento de Sistemas e participava das equipes de robótica nos torneios do SESI. A experiência nas competições chamou a atenção de um professor, que o apresentou à ocupação de Sistemas Aéreos Não Tripulados. Quando soube das seletivas da WorldSkills, o pai se tornou um dos principais parceiros de Caio na preparação. Além de apoiá-lo nos estudos e treinamentos, ajudou nos ensaios para a entrevista.",
+  "photo": "https://jornalismo.portaldaindustria.com.br/ws-delegacao-2026/_64.jpg"
+ }
+]

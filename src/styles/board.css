@@ -1,0 +1,100 @@
+/* ── Placar (página de estatísticas) ──────────────────── */
+.board, .team {
+  color: var(--ink); border-radius: 18px; padding: clamp(18px, 3vw, 36px);
+  background:
+    radial-gradient(circle at 1.4px 1.4px, rgb(14 31 71 / 0.07) 1.4px, transparent 0) 0 0 / 12px 12px,
+    var(--paper);
+  box-shadow: 0 24px 50px -30px rgb(0 0 0 / 0.9);
+}
+.board h2, .team h2 { margin: 0; font: 900 clamp(2rem, 1.3rem + 2.6vw, 3.4rem)/0.9 var(--display); text-transform: uppercase; }
+.board__intro { max-width: 60ch; margin: 10px 0 0; color: var(--ink-2); }
+.board__grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 34px 36px; margin-top: 28px; }
+/* seções impressas direto na página, separadas por um filete grosso */
+.panel { grid-column: span 6; padding-top: 14px; border-top: 3px solid var(--ink); min-width: 0; }
+.panel--wide { grid-column: span 12; }
+.panel--third { grid-column: span 4; }
+.panel--stack { grid-column: span 8; }
+@media (max-width: 960px) { .board__grid { grid-template-columns: minmax(0, 1fr); } .panel, .panel--third, .panel--stack, .panel--wide { grid-column: auto; } }
+.panel h3 { margin: 0 0 12px; font: 800 1.35rem/1 var(--display); text-transform: uppercase; }
+.panel p.hint { margin: -6px 0 12px; font-size: 14px; color: var(--ink-3); }
+.medals { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+.medals--3 { grid-template-columns: repeat(3, minmax(0, 150px)); }
+@media (max-width: 560px) { .medals { grid-template-columns: repeat(2, minmax(0, 132px)); justify-content: center; } }
+/* selos redondos colados na página */
+.medal-tile {
+  display: grid; place-content: center; justify-items: center; gap: 2px; aspect-ratio: 1; width: 100%; max-width: 150px;
+  border: 5px solid #fff; border-radius: 50%; text-align: center; padding: 0;
+  background: var(--paper-2); color: var(--ink); box-shadow: var(--shadow-sticker);
+  transition: transform 200ms var(--ease-out);
+}
+.medal-tile:nth-child(odd) { transform: rotate(-3deg); }
+.medal-tile:nth-child(even) { transform: rotate(2deg); }
+.medal-tile b { font: 900 2.8rem/0.9 var(--display); }
+.medal-tile span { font: 700 12px/1.1 var(--body); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); }
+.medal-tile[data-m="prata"] { background: linear-gradient(135deg, #f7f9fb, var(--silver) 55%, #b9c3cd); }
+.medal-tile[data-m="bronze"] { background: linear-gradient(135deg, #fbe4c9, #d99a5d 55%, #b87a45); }
+.medal-tile[data-m="excelencia"] { background: #fff; box-shadow: var(--shadow-sticker), inset 0 0 0 3px var(--gold-rim); }
+.medal-tile[aria-pressed="true"] { outline: 3px solid var(--ink); outline-offset: 2px; }
+.rank { display: flex; align-items: center; gap: 14px; margin-top: 22px; }
+.rank b { font: 900 3.4rem/0.85 var(--display); color: var(--green); }
+.rank span { color: var(--ink-2); font-size: 15px; }
+table.mt { width: 100%; border-collapse: collapse; font-size: 14px; }
+table.mt th, table.mt td { padding: 7px 6px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+/* o nome ocupa a sobra; nas telas estreitas a tabela rola de lado em vez de espremer o nome */
+table.mt td:nth-child(2) { max-width: 0; min-width: 8.5em; width: 100%; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 480px) { table.mt th, table.mt td { padding: 7px 4px; } table.mt { font-size: 13.5px; } }
+table.mt th:nth-child(2), table.mt td:nth-child(2) { text-align: left; }
+table.mt th { font: 700 12px/1.15 var(--body); text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-3); vertical-align: bottom; }
+/* linhas alternadas, para seguir a linha com o olho; a cor da linha fica em --row */
+table.mt tbody tr { --row: transparent; }
+table.mt tbody tr:nth-child(even) { --row: var(--paper-2); }
+table.mt tbody tr.br { --row: #fff4c2; }
+table.mt tbody tr.gap { --row: transparent; }
+table.mt tbody tr[data-hot="true"] { --row: color-mix(in srgb, var(--green) 18%, var(--paper)); }
+table.mt td { background: var(--row); }
+table.mt tr.br td { font-weight: 700; }
+table.mt tr.gap td { text-align: center; color: var(--ink-3); border-bottom: 0; padding: 2px; }
+@media (max-width: 480px) { table.mt th { font-size: 11px; letter-spacing: 0.03em; } }
+/* tabela mais larga que a tela: rola de lado com o nome fixo à esquerda e a borda direita esmaecida */
+.mt-wrap { position: relative; }
+.mt-scroll { overflow-x: auto; scrollbar-width: thin; }
+.mt-wrap::after {
+  content: ''; position: absolute; top: 0; right: 0; bottom: 0; width: 32px; pointer-events: none;
+  background: linear-gradient(to right, transparent, var(--paper)); opacity: 0; transition: opacity 160ms var(--ease-out);
+}
+.mt-wrap[data-more="true"]::after { opacity: 1; }
+.mt-wrap[data-over="true"] table.mt :is(th, td):nth-child(2) {
+  position: sticky; left: 0; z-index: 1;
+  background: linear-gradient(var(--row, transparent), var(--row, transparent)), var(--paper);
+}
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 12px; font-size: 13px; color: var(--ink-2); justify-content: center; }
+.legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 5px; }
+.bars { display: grid; gap: 10px; }
+.bar { display: grid; grid-template-columns: 110px 1fr 36px; align-items: center; gap: 10px; font-size: 14px; border: 0; background: none; padding: 0; text-align: left; color: var(--ink); }
+.bar__track { height: 22px; border-radius: 6px; background: transparent; box-shadow: inset 0 0 0 1px var(--line); overflow: hidden; display: flex; }
+.bar__track i { display: block; height: 100%; }
+.bar b { font: 800 1.15rem/1 var(--display); text-align: right; }
+.bar[aria-pressed="true"] { font-weight: 700; }
+.bar[aria-pressed="true"] .bar__track { outline: 2px solid var(--ink); outline-offset: 1px; }
+/* destaque da melhor nota do Brasil */
+.best__grid { display: grid; grid-template-columns: auto 1fr; gap: 20px; align-items: center; }
+.best__stickers { display: grid; grid-template-columns: repeat(2, 130px); gap: 12px; }
+.best__stickers .sticker:nth-child(1) { transform: rotate(-3deg); }
+.best__stickers .sticker:nth-child(2) { transform: rotate(2.5deg); }
+.best__text { display: grid; gap: 10px; }
+.best__text p { margin: 0; color: var(--ink-2); }
+.best__score b { font: 900 3.4rem/0.85 var(--display); color: var(--ink); }
+.best__award { font-weight: 600; color: var(--ink) !important; }
+@media (max-width: 620px) { .best__grid { grid-template-columns: 1fr; } .best__stickers { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+/* quadro de pontos: ver mais */
+.mt-more { min-height: 40px; padding: 0 14px; border: 2px dashed var(--ink-3); border-radius: 999px; background: none; color: var(--ink); font-weight: 700; font-size: 13.5px; }
+.mt-more--low { margin-top: 10px; }
+@media (hover: hover) and (pointer: fine) { .mt-more:hover { border-style: solid; } }
+.rank-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; counter-reset: r; }
+.rank-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; font-size: 14px; }
+.rank-row__bar { grid-column: 1 / -1; height: 8px; border-radius: 4px; box-shadow: inset 0 0 0 1px var(--line); overflow: hidden; }
+.rank-row__bar i { display: block; height: 100%; background: var(--ink); }
+.rank-row__v { color: var(--ink-2); white-space: nowrap; }
+.rank-row__v b { font: 800 1.1rem/1 var(--display); color: var(--ink); }
+.linkish { padding: 2px 0; border: 0; background: none; color: var(--ink); font: inherit; font-weight: 600; text-align: left; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+@media (hover: hover) and (pointer: fine) { .linkish:hover { text-decoration-color: var(--ink); } }

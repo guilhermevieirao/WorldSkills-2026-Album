@@ -1,0 +1,13 @@
+# dependências e build
+node_modules/
+dist/
+
+# material de trabalho: coletas brutas, capturas de revisão e cópias locais
+.ref/
+.impeccable/*
+!.impeccable/design.json
+!.impeccable/decision-direction.json
+.playwright-cli/
+/data.json
+/files.json
+__pycache__/

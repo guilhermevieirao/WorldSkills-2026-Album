@@ -1,0 +1,68 @@
+/* ── Barra de busca (fixa) ─────────────────────────────── */
+.finder {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: var(--cover); color: var(--on-cover);
+  box-shadow: 0 1px 0 rgb(255 255 255 / 0.08), 0 10px 24px -16px rgb(0 0 0 / 0.8);
+}
+.finder__bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; padding-block: 10px; }
+.finder__title { font: 800 1.2rem/1 var(--display); text-transform: uppercase; letter-spacing: 0.02em; margin-right: 6px; }
+.field {
+  display: flex; align-items: center; gap: 6px; min-height: 42px; padding: 0 12px;
+  border-radius: 999px; background: var(--cover-2); box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.14);
+}
+.field input, .field select {
+  min-width: 0; height: 40px; border: 0; background: transparent; color: var(--on-cover); outline: none;
+}
+.field input { width: 190px; }
+.field input::placeholder { color: var(--on-cover-2); }
+.field select { padding-right: 4px; cursor: pointer; }
+.field select option { color: #121826; background: #ffffff; }
+.field:focus-within { box-shadow: inset 0 0 0 2px var(--yellow); }
+.field svg { width: 16px; height: 16px; flex-shrink: 0; color: var(--on-cover-2); }
+/* filtro ativo: traço sólido amarelo; os outros ficam tracejados */
+.field[data-on="true"] { box-shadow: inset 0 0 0 2px var(--yellow); }
+.field[data-on="false"] { box-shadow: none; background-image: none; outline: 1px dashed rgb(255 255 255 / 0.28); outline-offset: -1px; }
+.finder .wrap { position: relative; }
+.finder__bar .finder__clear { margin-left: auto; }
+@media (min-width: 721px) { .finder__count { position: absolute; right: var(--gutter); bottom: 16px; } }
+.finder__count { margin-left: auto; align-self: center; font: 600 14px/1.2 var(--body); color: var(--on-cover-2); white-space: nowrap; }
+.finder__count b { font: 800 1.35rem/1 var(--display); color: var(--yellow); }
+.chip {
+  min-height: 36px; padding: 0 12px; border: 0; border-radius: 999px;
+  background: transparent; color: var(--on-cover-2); font-weight: 600; font-size: 14px;
+  outline: 1px dashed rgb(255 255 255 / 0.28); outline-offset: -1px;
+}
+.chip[aria-pressed="true"] { background: var(--yellow); color: var(--yellow-ink); }
+.chip[aria-pressed="true"]:focus-visible { outline-color: #fff; }
+.finder__row { display: flex; flex-wrap: wrap; gap: 6px; padding-bottom: 10px; }
+.finder__clear { background: none; border: 0; color: var(--yellow); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; min-height: 36px; }
+.finder__selects { display: contents; }
+.finder__title { display: none; }
+@media (min-width: 721px) {
+  .finder__bar { gap: 6px; }
+  .finder .field { min-height: 40px; padding: 0 8px 0 12px; }
+  .finder .field select { max-width: 190px; font-size: 14px; height: 38px; }
+  .finder__row .field { min-height: 36px; }
+  .finder__row .field select { height: 34px; }
+  .finder .field input { width: 168px; font-size: 14px; }
+}
+.album-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding-top: 24px; color: var(--on-cover); }
+.album-tools__label { font: 800 1.1rem/1 var(--display); text-transform: uppercase; margin-right: 4px; }
+.field--sm select { max-width: 170px; }
+.finder__sep { width: 1px; align-self: stretch; margin: 4px 4px; background: rgb(255 255 255 / 0.2); }
+.order { display: inline-flex; gap: 4px; }
+.finder__toggle { display: none; }
+@media (max-width: 720px) {
+  .finder__title { display: none; }
+  .finder__toggle { display: inline-flex; align-items: center; min-height: 42px; }
+  .finder__toggle[data-n]:not([data-n="0"])::after { content: attr(data-n); margin-left: 6px; display: grid; place-items: center; min-width: 20px; height: 20px; border-radius: 10px; background: var(--yellow); color: var(--yellow-ink); font-size: 12px; }
+  .finder__selects { display: none; width: 100%; }
+  .finder[data-open="true"] .finder__selects { display: grid; gap: 8px; }
+  .finder__selects .field { width: 100%; }
+  .finder__selects select { width: 100%; }
+  .field { flex: 1 1 140px; }
+  .field input { width: 100%; }
+  .finder__count { display: block; margin: 0 0 8px; }
+  .finder__row { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .chip { flex-shrink: 0; }
+}

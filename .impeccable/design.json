@@ -1,0 +1,706 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-27T15:46:21+00:00",
+  "title": "Design System: Brasil em Shanghai",
+  "extensions": {
+    "colorMeta": {
+      "cover": {
+        "role": "primary",
+        "displayName": "Azul-Marinho da Capa",
+        "canonical": "#0e1f47",
+        "tonalRamp": [
+          "#040812",
+          "#060e20",
+          "#09142e",
+          "#0c1a3c",
+          "#3e4c6c",
+          "#7a849a",
+          "#b7bcc8",
+          "#e7e9ed"
+        ]
+      },
+      "cover-2": {
+        "role": "primary",
+        "displayName": "Azul da Capa Claro",
+        "canonical": "#16306a",
+        "tonalRamp": [
+          "#060c1a",
+          "#0a1630",
+          "#0e1f45",
+          "#13295a",
+          "#455988",
+          "#7f8dad",
+          "#b9c1d2",
+          "#e8eaf0"
+        ]
+      },
+      "table": {
+        "role": "primary",
+        "displayName": "Mesa Noturna",
+        "canonical": "#10234f",
+        "tonalRamp": [
+          "#040914",
+          "#071024",
+          "#0a1733",
+          "#0e1e43",
+          "#404f72",
+          "#7c869e",
+          "#b7bdca",
+          "#e7e9ed"
+        ],
+        "darkTheme": "#0c1b3f"
+      },
+      "on-cover": {
+        "role": "neutral",
+        "displayName": "Texto da Capa",
+        "canonical": "#f3f6fb",
+        "tonalRamp": [
+          "#3d3e3f",
+          "#6d6f71",
+          "#9ea0a3",
+          "#cfd1d5",
+          "#f5f8fc",
+          "#f8fafd",
+          "#fbfcfe",
+          "#fefeff"
+        ]
+      },
+      "on-cover-2": {
+        "role": "neutral",
+        "displayName": "Texto da Capa 2",
+        "canonical": "#b9c6e4",
+        "tonalRamp": [
+          "#2e3239",
+          "#535967",
+          "#788194",
+          "#9da8c2",
+          "#c7d1e9",
+          "#d8e0f0",
+          "#eaeef7",
+          "#f8f9fc"
+        ]
+      },
+      "yellow": {
+        "role": "secondary",
+        "displayName": "Amarelo Brasil",
+        "canonical": "#ffd21f",
+        "tonalRamp": [
+          "#403408",
+          "#735e0e",
+          "#a68814",
+          "#d9b21a",
+          "#ffdb4c",
+          "#ffe684",
+          "#fff2bc",
+          "#fffae9"
+        ]
+      },
+      "yellow-ink": {
+        "role": "secondary",
+        "displayName": "Tinta do Amarelo",
+        "canonical": "#1a1400",
+        "tonalRamp": [
+          "#060500",
+          "#0c0900",
+          "#110d00",
+          "#161100",
+          "#484333",
+          "#817e73",
+          "#bab8b2",
+          "#e8e8e6"
+        ]
+      },
+      "green": {
+        "role": "secondary",
+        "displayName": "Verde Brasil",
+        "canonical": "#009a4e",
+        "tonalRamp": [
+          "#002614",
+          "#004523",
+          "#006433",
+          "#008342",
+          "#33ae71",
+          "#73c79e",
+          "#b2e1ca",
+          "#e6f5ed"
+        ]
+      },
+      "s-construcao": {
+        "role": "tertiary",
+        "displayName": "Tinta Construção",
+        "canonical": "#c9500f",
+        "tonalRamp": [
+          "#321404",
+          "#5a2407",
+          "#83340a",
+          "#ab440d",
+          "#d4733f",
+          "#e19f7b",
+          "#efcab7",
+          "#faeee7"
+        ]
+      },
+      "s-artes": {
+        "role": "tertiary",
+        "displayName": "Tinta Artes",
+        "canonical": "#d6246f",
+        "tonalRamp": [
+          "#36091c",
+          "#601032",
+          "#8b1748",
+          "#b61f5e",
+          "#de508c",
+          "#e887b0",
+          "#f3bdd4",
+          "#fbe9f1"
+        ]
+      },
+      "s-ti": {
+        "role": "tertiary",
+        "displayName": "Tinta TI",
+        "canonical": "#0a78c2",
+        "tonalRamp": [
+          "#021e30",
+          "#043657",
+          "#064e7e",
+          "#0866a5",
+          "#3b93ce",
+          "#78b5dd",
+          "#b6d6ed",
+          "#e6f2f9"
+        ]
+      },
+      "s-manufatura": {
+        "role": "tertiary",
+        "displayName": "Tinta Manufatura",
+        "canonical": "#0a7a44",
+        "tonalRamp": [
+          "#021e11",
+          "#04371f",
+          "#064f2c",
+          "#08683a",
+          "#3b9569",
+          "#78b698",
+          "#b6d7c7",
+          "#e6f2ec"
+        ]
+      },
+      "s-servicos": {
+        "role": "tertiary",
+        "displayName": "Tinta Serviços",
+        "canonical": "#7442c2",
+        "tonalRamp": [
+          "#1d1030",
+          "#341e57",
+          "#4b2b7e",
+          "#6338a5",
+          "#9068ce",
+          "#b397dd",
+          "#d5c6ed",
+          "#f1ecf9"
+        ]
+      },
+      "s-transporte": {
+        "role": "tertiary",
+        "displayName": "Tinta Transporte",
+        "canonical": "#d9352a",
+        "tonalRamp": [
+          "#360d0a",
+          "#621813",
+          "#8d221b",
+          "#b82d24",
+          "#e15d55",
+          "#ea908a",
+          "#f4c2bf",
+          "#fbebea"
+        ]
+      },
+      "silver": {
+        "role": "tertiary",
+        "displayName": "Prata",
+        "canonical": "#c3ccd6",
+        "tonalRamp": [
+          "#313336",
+          "#585c60",
+          "#7f858b",
+          "#a6adb6",
+          "#cfd6de",
+          "#dee3e8",
+          "#edf0f3",
+          "#f9fafb"
+        ]
+      },
+      "silver-2": {
+        "role": "tertiary",
+        "displayName": "Prata Clara",
+        "canonical": "#eef2f6",
+        "tonalRamp": [
+          "#3c3c3e",
+          "#6b6d6f",
+          "#9b9da0",
+          "#caced1",
+          "#f1f5f8",
+          "#f6f8fa",
+          "#fafbfc",
+          "#fdfefe"
+        ]
+      },
+      "bronze": {
+        "role": "tertiary",
+        "displayName": "Bronze",
+        "canonical": "#b8743a",
+        "tonalRamp": [
+          "#2e1d0e",
+          "#53341a",
+          "#784b26",
+          "#9c6331",
+          "#c69061",
+          "#d8b393",
+          "#ead5c4",
+          "#f8f1eb"
+        ]
+      },
+      "bronze-2": {
+        "role": "tertiary",
+        "displayName": "Bronze Claro",
+        "canonical": "#f0c99b",
+        "tonalRamp": [
+          "#3c3227",
+          "#6c5a46",
+          "#9c8365",
+          "#ccab84",
+          "#f3d4af",
+          "#f7e1c8",
+          "#faefe1",
+          "#fefaf5"
+        ]
+      },
+      "gold-rim": {
+        "role": "tertiary",
+        "displayName": "Aro Dourado",
+        "canonical": "#d6a520",
+        "tonalRamp": [
+          "#362908",
+          "#604a0e",
+          "#8b6b15",
+          "#b68c1b",
+          "#deb74d",
+          "#e8ce84",
+          "#f3e4bc",
+          "#fbf6e9"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel Couché",
+        "canonical": "#f7f8f5",
+        "tonalRamp": [
+          "#3e3e3d",
+          "#6f706e",
+          "#a1a19f",
+          "#d2d3d0",
+          "#f9f9f7",
+          "#fbfbfa",
+          "#fdfdfc",
+          "#fefefe"
+        ],
+        "darkTheme": "#e9ebe6"
+      },
+      "paper-2": {
+        "role": "neutral",
+        "displayName": "Papel Couché Sombra",
+        "canonical": "#eceee9",
+        "tonalRamp": [
+          "#3b3c3a",
+          "#6a6b69",
+          "#999b97",
+          "#c9cac6",
+          "#f0f1ed",
+          "#f5f6f3",
+          "#f9faf8",
+          "#fdfdfd"
+        ],
+        "darkTheme": "#dcdfd8"
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "canonical": "#121826",
+        "tonalRamp": [
+          "#04060a",
+          "#080b11",
+          "#0c1019",
+          "#0f1420",
+          "#414651",
+          "#7d8088",
+          "#b8babe",
+          "#e7e8e9"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Tinta 2",
+        "canonical": "#485064",
+        "tonalRamp": [
+          "#121419",
+          "#20242d",
+          "#2f3441",
+          "#3d4455",
+          "#6d7383",
+          "#9a9faa",
+          "#c8cad0",
+          "#edeef0"
+        ]
+      },
+      "ink-3": {
+        "role": "neutral",
+        "displayName": "Tinta 3",
+        "canonical": "#555d6f",
+        "tonalRamp": [
+          "#15171c",
+          "#262a32",
+          "#373c48",
+          "#484f5e",
+          "#777d8c",
+          "#a2a6b0",
+          "#ccced4",
+          "#eeeff1"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Filete",
+        "canonical": "#d7dbe1",
+        "tonalRamp": [
+          "#363738",
+          "#616365",
+          "#8c8e92",
+          "#b7babf",
+          "#dfe2e7",
+          "#e9ebee",
+          "#f3f4f6",
+          "#fbfbfc"
+        ],
+        "darkTheme": "#c6cbd2"
+      },
+      "note-paper": {
+        "role": "neutral",
+        "displayName": "Papel de Recado",
+        "canonical": "#fff4c2",
+        "tonalRamp": [
+          "#403d30",
+          "#736e57",
+          "#a69f7e",
+          "#d9cfa5",
+          "#fff6ce",
+          "#fff9dd",
+          "#fffced",
+          "#fffef9"
+        ]
+      },
+      "note-ink": {
+        "role": "neutral",
+        "displayName": "Tinta de Recado",
+        "canonical": "#3d3100",
+        "tonalRamp": [
+          "#0f0c00",
+          "#1b1600",
+          "#282000",
+          "#342a00",
+          "#645a33",
+          "#948e73",
+          "#c5c1b2",
+          "#eceae6"
+        ]
+      },
+      "sticker-white": {
+        "role": "neutral",
+        "displayName": "Branco da Figurinha",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#404040",
+          "#737373",
+          "#a6a6a6",
+          "#d9d9d9",
+          "#ffffff",
+          "#ffffff",
+          "#ffffff",
+          "#ffffff"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Só o título da capa, caixa-alta, segunda linha em amarelo."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Títulos das páginas de setor, placar e comissão."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Seções impressas na página de papel."
+      },
+      "sticker-name": {
+        "displayName": "Sticker Name",
+        "purpose": "Nome na faixa da figurinha, uma linha."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Contagens, posições, pontos, números de figurinha e de lacuna."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Texto corrido e dados em Barlow."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Cabeçalhos de tabela e rótulos dos selos, caixa-alta."
+      }
+    },
+    "shadows": [
+      {
+        "name": "shadow-sticker",
+        "value": "0 1px 1px rgb(0 0 0 / 0.12), 0 8px 18px -10px rgb(0 0 0 / 0.45)",
+        "purpose": "Figurinha colada: figurinhas, crachás, fotos de grupo, selos."
+      },
+      {
+        "name": "sticker-lifted",
+        "value": "0 2px 2px rgb(0 0 0 / 0.12), 0 16px 26px -12px rgb(0 0 0 / 0.55)",
+        "purpose": "Hover da figurinha, só com ponteiro fino."
+      },
+      {
+        "name": "page",
+        "value": "0 24px 50px -30px rgb(0 0 0 / 0.9)",
+        "purpose": "Páginas de setor, placar e comissão sobre a mesa."
+      },
+      {
+        "name": "dialog-back",
+        "value": "0 40px 80px -30px rgb(0 0 0 / 0.9)",
+        "purpose": "Verso da figurinha aberto, sobre fundo rgb(6 13 31 / 0.78)."
+      }
+    ],
+    "textures": [
+      {
+        "name": "halftone-ink",
+        "value": "radial-gradient(circle at 1.5px 1.5px, rgb(255 255 255 / 0.16) 1.5px, transparent 0) 0 0 / 12px 12px",
+        "purpose": "Retícula sobre as tintas de setor e a faixa do verso."
+      },
+      {
+        "name": "halftone-paper",
+        "value": "radial-gradient(circle at 1.4px 1.4px, rgb(14 31 71 / 0.07) 1.4px, transparent 0) 0 0 / 12px 12px",
+        "purpose": "Retícula sobre o papel couché."
+      },
+      {
+        "name": "halftone-cover",
+        "value": "radial-gradient(circle at 1.2px 1.2px, rgb(255 255 255 / 0.09) 1.2px, transparent 0) 0 0 / 14px 14px",
+        "purpose": "Retícula da capa (0.07 na mesa)."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.23, 1, 0.32, 1)",
+        "purpose": "Padrão: colar, descolar, hover, giro do verso."
+      },
+      {
+        "name": "stick",
+        "value": "360ms, de opacity 0 scale(1.06) rotate(-2deg) ao repouso",
+        "purpose": "Figurinha volta a colar quando o filtro a inclui."
+      },
+      {
+        "name": "peel",
+        "value": "260ms, de opacity 0 translateY(-6px) rotate(3deg) ao repouso",
+        "purpose": "Lacuna aparece quando a figurinha é descolada."
+      },
+      {
+        "name": "flip-back",
+        "value": "520ms, perspective(1200px) rotateY(90deg) a 0, partindo da figurinha clicada",
+        "purpose": "Abrir o verso."
+      },
+      {
+        "name": "press",
+        "value": "scale(0.97) em 140ms (figurinha: scale(0.98))",
+        "purpose": "Toque em botões e figurinhas."
+      },
+      {
+        "name": "foil-sheen",
+        "value": "--mx/--my seguem o ponteiro; no toque, a rolagem",
+        "purpose": "Reflexo das brilhantes."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Desliga colar, descolar, giro, reflexo e rolagem suave."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "480px"
+      },
+      {
+        "name": "medals",
+        "value": "560px"
+      },
+      {
+        "name": "strip",
+        "value": "700px"
+      },
+      {
+        "name": "finder",
+        "value": "720px"
+      },
+      {
+        "name": "back",
+        "value": "820px"
+      },
+      {
+        "name": "cover",
+        "value": "860px"
+      },
+      {
+        "name": "board",
+        "value": "960px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botão primário",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Ação principal sobre a capa (Abrir o álbum).",
+      "html": "<div class=\"ds-cover-bg\"><a class=\"ds-btn-yellow\" href=\"#\">Abrir o álbum</a></div>",
+      "css": ".ds-cover-bg{background:#0e1f47;padding:16px}.ds-btn-yellow{display:inline-flex;align-items:center;min-height:48px;padding:0 20px;border:0;border-radius:999px;background:var(--yellow,#ffd21f);color:var(--yellow-ink,#1a1400);font:700 16px/1.2 'Barlow',system-ui,sans-serif;text-decoration:none;transition:transform 140ms cubic-bezier(0.23,1,0.32,1),background-color 160ms ease}.ds-btn-yellow:hover{background:#ffe066}.ds-btn-yellow:active{transform:scale(0.97)}.ds-btn-yellow:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}"
+    },
+    {
+      "name": "Botão fantasma",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Ação secundária sobre o azul da capa.",
+      "html": "<div class=\"ds-cover-bg\"><a class=\"ds-btn-ghost\" href=\"#\">Ver o placar do Brasil</a></div>",
+      "css": ".ds-cover-bg{background:#0e1f47;padding:16px}.ds-btn-ghost{display:inline-flex;align-items:center;min-height:48px;padding:0 20px;border-radius:999px;background:transparent;color:#f3f6fb;box-shadow:inset 0 0 0 2px rgb(255 255 255 / 0.28);font:700 16px/1.2 'Barlow',system-ui,sans-serif;text-decoration:none;transition:transform 140ms cubic-bezier(0.23,1,0.32,1),background-color 160ms ease}.ds-btn-ghost:hover{background:rgb(255 255 255 / 0.08)}.ds-btn-ghost:active{transform:scale(0.97)}.ds-btn-ghost:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}"
+    },
+    {
+      "name": "Chips de resultado",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Filtro de resultado na barra; inativo tracejado, ativo amarelo.",
+      "html": "<div class=\"ds-cover-bg\"><button class=\"ds-chip\" aria-pressed=\"true\">Todos os resultados</button> <button class=\"ds-chip\" aria-pressed=\"false\">Prata</button> <button class=\"ds-chip\" aria-pressed=\"false\">Excelência</button></div>",
+      "css": ".ds-cover-bg{background:#0e1f47;padding:16px}.ds-chip{min-height:36px;padding:0 12px;border:0;border-radius:999px;background:transparent;color:#b9c6e4;font:600 14px/1.2 'Barlow',system-ui,sans-serif;outline:1px dashed rgb(255 255 255 / 0.28);outline-offset:-1px;cursor:pointer}.ds-chip[aria-pressed=true]{background:#ffd21f;color:#1a1400;outline:0}.ds-chip:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}"
+    },
+    {
+      "name": "Campo de busca",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Campo em pílula na barra Procurar figurinha.",
+      "html": "<div class=\"ds-cover-bg\"><label class=\"ds-field\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input type=\"search\" placeholder=\"Nome ou ocupação\"></label></div>",
+      "css": ".ds-cover-bg{background:#0e1f47;padding:16px}.ds-field{display:flex;align-items:center;gap:6px;min-height:42px;padding:0 12px;border-radius:999px;background:#16306a;box-shadow:inset 0 0 0 1px rgb(255 255 255 / 0.14);color:#b9c6e4}.ds-field svg{width:16px;height:16px;flex-shrink:0}.ds-field input{width:190px;height:40px;border:0;background:transparent;color:#f3f6fb;outline:none;font:400 16px 'Barlow',system-ui,sans-serif}.ds-field input::placeholder{color:#b9c6e4}.ds-field:focus-within{box-shadow:inset 0 0 0 2px #ffd21f}"
+    },
+    {
+      "name": "Figurinha",
+      "kind": "card",
+      "refersTo": "sticker",
+      "description": "Competidor colado no espaço da ocupação, na tinta do setor.",
+      "html": "<div class=\"ds-page\"><button class=\"ds-sticker\"><span class=\"ds-sticker__photo\"><span class=\"ds-sticker__n\">15</span><span class=\"ds-sticker__uf\">MG</span></span><span class=\"ds-sticker__band\"><span class=\"ds-sticker__name\">Matteo Barbosa</span><span class=\"ds-sticker__occ\">Instalações Hidráulicas</span></span><span class=\"ds-sticker__res\"><span>Sem medalha</span><span><b>25º</b> de 32</span></span></button></div>",
+      "css": ".ds-page{--sec:#c9500f;padding:24px;border-radius:18px;background:radial-gradient(circle at 1.5px 1.5px,rgb(255 255 255 / 0.16) 1.5px,transparent 0) 0 0/12px 12px,var(--sec)}.ds-sticker{display:block;width:180px;padding:6px;border:0;border-radius:10px;background:#fff;color:#121826;text-align:left;box-shadow:0 1px 1px rgb(0 0 0 / 0.12),0 8px 18px -10px rgb(0 0 0 / 0.45);transform:rotate(-0.45deg);transition:transform 220ms cubic-bezier(0.23,1,0.32,1),box-shadow 220ms cubic-bezier(0.23,1,0.32,1);cursor:pointer}.ds-sticker:hover{transform:translateY(-3px) rotate(-0.6deg);box-shadow:0 2px 2px rgb(0 0 0 / 0.12),0 16px 26px -12px rgb(0 0 0 / 0.55)}.ds-sticker:active{transform:scale(0.98)}.ds-sticker:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}.ds-sticker__photo{position:relative;display:block;aspect-ratio:3/4;border-radius:6px 6px 0 0;background:linear-gradient(180deg,color-mix(in oklab,var(--sec) 30%,#fff),color-mix(in oklab,var(--sec) 65%,#fff))}.ds-sticker__n{position:absolute;top:6px;left:6px;min-width:34px;height:26px;padding:0 6px;display:grid;place-items:center;border-radius:6px;background:#121826;color:#fff;font:800 1rem/1 'Big Shoulders Display','Arial Narrow',sans-serif}.ds-sticker__uf{position:absolute;top:6px;right:6px;height:22px;padding:0 6px;display:grid;place-items:center;border-radius:5px;background:#fff;color:#121826;font:700 12px/1 'Barlow',sans-serif;letter-spacing:0.04em}.ds-sticker__band{display:block;padding:7px 8px 6px;background:var(--sec);color:#fff}.ds-sticker__name{display:block;font:800 1.2rem/0.95 'Big Shoulders Display','Arial Narrow',sans-serif;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.ds-sticker__occ{display:block;margin-top:3px;font:500 12px/1.2 'Barlow',sans-serif}.ds-sticker__res{display:flex;justify-content:space-between;gap:6px;padding:6px 4px 1px;font:600 12.5px/1.2 'Barlow',sans-serif;color:#485064}.ds-sticker__res b{font:800 1.05rem/1 'Big Shoulders Display',sans-serif;color:#121826}"
+    },
+    {
+      "name": "Lacuna impressa",
+      "kind": "custom",
+      "refersTo": "sticker",
+      "description": "O lugar da figurinha que o filtro descolou.",
+      "html": "<div class=\"ds-page\"><div class=\"ds-slot\"><b>15</b><span>Matteo Barbosa</span></div></div>",
+      "css": ".ds-page{padding:24px;border-radius:18px;background:radial-gradient(circle at 1.5px 1.5px,rgb(255 255 255 / 0.16) 1.5px,transparent 0) 0 0/12px 12px,#0a78c2}.ds-slot{display:grid;place-items:center;align-content:center;gap:4px;width:180px;min-height:118px;padding:10px;border-radius:10px;border:2px dashed rgb(255 255 255 / 0.55);color:rgb(255 255 255 / 0.85);text-align:center}.ds-slot b{font:900 2.6rem/1 'Big Shoulders Display','Arial Narrow',sans-serif}.ds-slot span{font:600 12px/1.25 'Barlow',sans-serif}"
+    },
+    {
+      "name": "Selo de medalha",
+      "kind": "custom",
+      "refersTo": "paper-page",
+      "description": "Contagem de medalhas colada como selo redondo na página de placar; também é filtro.",
+      "html": "<div class=\"ds-paper\"><button class=\"ds-medal\" data-m=\"prata\" aria-pressed=\"false\"><b>2</b><span>Prata</span></button><button class=\"ds-medal\" data-m=\"excelencia\" aria-pressed=\"true\"><b>29</b><span>Excelência</span></button></div>",
+      "css": ".ds-paper{display:flex;gap:14px;padding:24px;border-radius:18px;background:radial-gradient(circle at 1.4px 1.4px,rgb(14 31 71 / 0.07) 1.4px,transparent 0) 0 0/12px 12px,#f7f8f5}.ds-medal{display:grid;place-content:center;justify-items:center;gap:2px;width:130px;aspect-ratio:1;padding:0;border:5px solid #fff;border-radius:50%;background:#eceee9;color:#121826;box-shadow:0 1px 1px rgb(0 0 0 / 0.12),0 8px 18px -10px rgb(0 0 0 / 0.45);transform:rotate(-3deg);cursor:pointer}.ds-medal+.ds-medal{transform:rotate(2deg)}.ds-medal b{font:900 2.8rem/0.9 'Big Shoulders Display',sans-serif}.ds-medal span{font:700 12px/1.1 'Barlow',sans-serif;text-transform:uppercase;letter-spacing:0.06em;color:#485064}.ds-medal[data-m=prata]{background:linear-gradient(135deg,#f7f9fb,#c3ccd6 55%,#b9c3cd)}.ds-medal[data-m=excelencia]{background:#fff;box-shadow:0 1px 1px rgb(0 0 0 / 0.12),0 8px 18px -10px rgb(0 0 0 / 0.45),inset 0 0 0 3px #d6a520}.ds-medal[aria-pressed=true]{outline:3px solid #121826;outline-offset:2px}.ds-medal:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}"
+    },
+    {
+      "name": "Botão de ícone",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "Anterior, próximo e fechar no verso.",
+      "html": "<button class=\"ds-icon-btn\" aria-label=\"Fechar\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" aria-hidden=\"true\"><path d=\"M6 6l12 12M18 6 6 18\"/></svg></button>",
+      "css": ".ds-icon-btn{width:42px;height:42px;display:grid;place-items:center;border:0;border-radius:50%;background:#eceee9;color:#121826;cursor:pointer}.ds-icon-btn svg{width:18px;height:18px}.ds-icon-btn:hover{background:#d7dbe1}.ds-icon-btn:focus-visible{outline:3px solid #ffd21f;outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "O Álbum de Figurinhas",
+    "overview": "A delegação é um álbum de figurinhas. Cada competidor é uma figurinha colada no espaço da sua ocupação, e os seis setores da WorldSkills são as seis páginas de \"grupo\" do álbum. Tudo o que aparece na tela é um objeto de álbum: a capa azul-marinho com amarelo, as páginas impressas em tinta de processo com retícula, as figurinhas de borda branca, as lacunas tracejadas, os selos redondos colados na página de placar e o verso da figurinha quando ela é aberta. O mundo foi escolhido pelo usuário.\n\nA densidade é alta e alegre: muitas figurinhas por página, cada uma levemente torta, como coladas à mão. A cor mora nas páginas de setor, não em detalhes; o papel claro fica para as páginas de leitura (placar, comissão, verso). A página recusa o padrão da categoria, o painel branco de resultados com cards de foto e blocos de KPI.\n\nAs restrições são do artefato Claude: fontes só do Google Fonts, imagens enviadas como arquivos do artefato, nenhuma imagem externa. As fotos são publicadas no tamanho em que as fontes as servem e nunca são recomprimidas (pedido do usuário).",
+    "keyCharacteristics": [
+      "Mesa azul-marinho com retícula ao redor de tudo; as páginas do álbum ficam por cima.",
+      "Uma tinta de processo saturada por setor, sempre com retícula branca.",
+      "Figurinhas brancas de 10px de raio, foto sobre painel tingido, faixa de nome em caixa-alta condensada, número no canto.",
+      "Prata e bronze são figurinhas \"brilhantes\" com reflexo que segue o ponteiro; Excelência tem aro dourado fino.",
+      "O filtro descola figurinhas e deixa a lacuna impressa com número e nome.",
+      "Big Shoulders Display para nomes, números e títulos; Barlow para texto e dados."
+    ],
+    "rules": [
+      {
+        "name": "A Regra da Tinta por Grupo",
+        "body": "Cada setor tem uma tinta, e ela vale para tudo que pertence ao setor: página, faixa da figurinha, painel da foto, verso. Nunca misture tintas de setores numa mesma figurinha.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra do Amarelo Único",
+        "body": "Sobre o azul, o amarelo é o único acento e marca o que está ativo ou é a ação principal. Não crie um segundo acento na capa.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra do Metal Merecido",
+        "body": "Prata, bronze e dourado aparecem só onde há resultado correspondente. Nunca como decoração.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra do Contexto",
+        "body": "Todo resultado é \"8º de 15\": o ordinal em Big Shoulders, o total em Barlow ao lado. Nunca um número solto.",
+        "section": "typography"
+      },
+      {
+        "name": "A Regra da Caixa-Alta Condensada",
+        "body": "Caixa-alta só em Big Shoulders (nomes, títulos, números) e nos rótulos de 12px. Texto em Barlow fica em caixa normal.",
+        "section": "typography"
+      },
+      {
+        "name": "A Regra da Lacuna Impressa",
+        "body": "Uma figurinha filtrada nunca some sem deixar rastro: no lugar fica a lacuna tracejada com número e nome. Só o chip \"Esconder lacunas\" recolhe as ocupações vazias.",
+        "section": "layout"
+      },
+      {
+        "name": "A Regra do Papel Colado",
+        "body": "Tudo que é figurinha ou selo usa a sombra de figurinha colada e uma rotação pequena. Sombra mais alta só em resposta a ponteiro.",
+        "section": "elevation"
+      },
+      {
+        "name": "A Regra do Tracejado",
+        "body": "Tracejado quer dizer vazio ou inativo; traço sólido amarelo quer dizer ativo. Não use tracejado como enfeite.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** dar a cada setor uma tinta de processo cheia com retícula branca, e repetir essa tinta na faixa e no painel de todas as suas figurinhas.",
+      "**Do** montar pessoas como figurinhas: borda branca de 6px, raio de 10px, número no canto, nome em Big Shoulders caixa-alta.",
+      "**Do** deixar a lacuna tracejada com número e nome no lugar de toda figurinha filtrada.",
+      "**Do** mostrar todo resultado como \"Nº de N\".",
+      "**Do** creditar a fonte de cada foto e publicar as fotos sem recomprimir.",
+      "**Do** desligar colar, descolar, giro e reflexo com prefers-reduced-motion."
+    ],
+    "donts": [
+      "**Don't** fazer um painel branco de resultados com cards de foto e blocos de KPI.",
+      "**Don't** usar metais (prata, bronze, dourado) fora dos resultados correspondentes.",
+      "**Don't** colocar um segundo acento ao lado do amarelo sobre o azul da capa.",
+      "**Don't** usar logos da WorldSkills, SENAI, Senac, CNI ou Panini como identidade.",
+      "**Don't** carregar fontes fora do Google Fonts ou imagens de hosts externos; o artefato bloqueia.",
+      "**Don't** usar sombras duras deslocadas; a sombra é de papel colado.",
+      "**Don't** pôr sobretítulos (eyebrows) acima dos títulos; o título de página começa direto, com a letra do grupo quando for página de setor."
+    ]
+  }
+}

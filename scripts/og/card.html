@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Cartão de prévia</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Barlow:wght@500;600;700&display=swap">
+<style>
+/* cartão de prévia de link (1200×630) e de stories (1080×1920): usado só por scripts/generate-og.mjs para gerar public/og/ */
+:root {
+  --cover: #0e1f47; --yellow: #ffd21f; --yellow-ink: #1a1400; --ink: #121826; --gold-rim: #d6a520;
+  --silver: #c3ccd6; --bronze: #b8743a;
+  --display: 'Big Shoulders Display', 'Arial Narrow', sans-serif; --body: 'Barlow', 'Segoe UI', sans-serif;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+.card {
+  position: relative; width: 1200px; height: 630px; overflow: hidden; display: grid; grid-template-columns: 400px 1fr; align-items: center; gap: 56px;
+  padding: 0 72px 0 84px; color: #fff; font-family: var(--body);
+  background: radial-gradient(circle at 2px 2px, rgb(255 255 255 / 0.16) 2px, transparent 0) 0 0 / 16px 16px, var(--sec);
+}
+.sticker {
+  position: relative; width: 360px; padding: 10px; border-radius: 16px; background: #fff; color: var(--ink);
+  transform: rotate(-3deg); box-shadow: 0 2px 2px rgb(0 0 0 / 0.14), 0 30px 50px -24px rgb(0 0 0 / 0.7);
+}
+.sticker__photo { position: relative; aspect-ratio: 3 / 4; overflow: hidden; border-radius: 10px 10px 0 0; background: #d8dde4; }
+.sticker__photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; display: block; }
+.badge { position: absolute; top: 10px; z-index: 2; display: grid; place-items: center; height: 40px; padding: 0 10px; border-radius: 8px; font: 800 26px/1 var(--display); }
+.badge--n { left: 10px; min-width: 52px; background: var(--ink); color: #fff; }
+.badge--uf { right: 10px; background: #fff; color: var(--ink); font: 700 18px/1 var(--body); letter-spacing: 0.04em; }
+.sticker__band { padding: 12px 14px 12px; background: var(--sec); color: #fff; border-radius: 0 0 10px 10px; }
+.sticker__band b { display: block; font: 900 34px/0.95 var(--display); text-transform: uppercase; }
+.info { display: grid; gap: 18px; align-content: center; }
+.kick { margin: 0; font: 700 21px/1 var(--body); letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.92; }
+h1 { margin: 0; font: 900 var(--fs, 92px)/0.9 var(--display); text-transform: uppercase; text-wrap: balance; }
+.occ { margin: 0; font: 700 34px/1.1 var(--display); text-transform: uppercase; }
+.occ span { display: inline-grid; place-items: center; min-width: 58px; height: 44px; margin-right: 10px; padding: 0 8px; border-radius: 22px; background: #fff; color: var(--sec); vertical-align: 3px; font-size: 30px; }
+.res { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 18px; margin: 0; font: 600 26px/1.1 var(--body); }
+.medal { display: inline-flex; align-items: center; height: 48px; padding: 0 20px; border-radius: 24px; font: 800 26px/1 var(--body); color: var(--ink); }
+.medal[data-m="prata"] { background: linear-gradient(135deg, #f7f9fb, var(--silver) 55%, #b9c3cd); }
+.medal[data-m="bronze"] { background: linear-gradient(135deg, #fbe4c9, #d99a5d 55%, #b87a45); }
+.medal[data-m="excelencia"] { background: #fff; box-shadow: inset 0 0 0 4px var(--gold-rim); }
+.res b { font: 900 38px/1 var(--display); }
+.place { margin: 0; font: 600 24px/1.2 var(--body); opacity: 0.92; }
+/* Best of Nation: selo dourado de quem fez a maior nota do país */
+.bon { display: inline-flex; align-items: center; gap: 10px; justify-self: start; margin: 0; height: 48px; padding: 0 20px 0 14px; border-radius: 24px; background: radial-gradient(circle at 1.5px 1.5px, rgb(255 255 255 / 0.25) 1px, transparent 0) 0 0 / 9px 9px, linear-gradient(120deg, #102c66, #1d4fa8 60%, #102c66); color: #fff; box-shadow: 0 0 0 2px rgb(255 255 255 / 0.85), 0 6px 16px -8px rgb(0 0 0 / 0.5); font: 800 24px/1 var(--body); box-shadow: 0 6px 16px -8px rgb(0 0 0 / 0.5); }
+.bon svg { width: 26px; height: 26px; }
+/* faixa azul estrelada na base da foto, como no álbum */
+.sash { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; height: 40px; display: flex; align-items: center; justify-content: center; gap: 8px; color: #fff; font: 800 17px/1 var(--body); letter-spacing: 0.12em; text-transform: uppercase; background: radial-gradient(circle at 1.5px 1.5px, rgb(255 255 255 / 0.35) 1.2px, transparent 0) 0 0 / 11px 11px, linear-gradient(90deg, #102c66, #1d4fa8 50%, #102c66); box-shadow: 0 -2px 0 rgb(255 255 255 / 0.5); }
+.sash svg { width: 16px; height: 16px; }
+.story .sash { height: 60px; font-size: 26px; gap: 12px; }
+.story .sash svg { width: 24px; height: 24px; }
+.bon em { font-style: normal; font-weight: 600; opacity: 0.85; }
+.foot { position: absolute; left: 540px; right: 72px; bottom: 30px; display: flex; justify-content: space-between; margin: 0; font: 700 18px/1 var(--body); letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.85; }
+.foot i { font-style: normal; color: var(--yellow); }
+
+/* cartão do álbum */
+.cover { grid-template-columns: 1fr 470px; gap: 24px; padding: 0 40px 0 80px; background: radial-gradient(circle at 2px 2px, rgb(255 255 255 / 0.08) 2px, transparent 0) 0 0 / 16px 16px, var(--cover); }
+.cover h1 { font-size: 140px; line-height: 0.82; }
+.cover .kick { font-size: 19px; }
+.cover h1 em { display: block; font-style: normal; color: var(--yellow); }
+.tally { display: flex; gap: 10px; flex-wrap: wrap; margin: 0; max-width: 560px; }
+.tally span { display: inline-flex; align-items: baseline; gap: 6px; padding: 8px 14px; border-radius: 14px; background: rgb(255 255 255 / 0.1); font: 600 22px/1 var(--body); }
+.tally b { font: 900 40px/1 var(--display); color: var(--yellow); }
+.fan { position: relative; height: 560px; }
+.fan .sticker { position: absolute; width: 210px; top: 50%; left: 50%; padding: 8px; }
+.fan .sticker__band b { font-size: 26px; }
+.fan .badge { height: 32px; font-size: 20px; }
+.fan .badge--uf { font-size: 14px; }
+.fan .sticker:nth-child(1) { transform: translate(-104%, -44%) rotate(-10deg); }
+.fan .sticker:nth-child(2) { transform: translate(-80%, -52%) rotate(-5deg); }
+.fan .sticker:nth-child(3) { transform: translate(-50%, -58%) rotate(1deg); z-index: 3; }
+.fan .sticker:nth-child(4) { transform: translate(-18%, -52%) rotate(6deg); z-index: 2; }
+.fan .sticker:nth-child(5) { transform: translate(6%, -44%) rotate(11deg); z-index: 1; }
+
+/* formato vertical para stories e status (1080×1920); o conteúdo fica longe das bordas de cima e de baixo, onde o app põe botões */
+.story { width: 1080px; height: 1920px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0; padding: 210px 80px 250px; text-align: center; grid-template-columns: none; }
+.story .kick { font-size: 30px; margin-bottom: 56px; }
+.story .sticker { width: 640px; padding: 16px; border-radius: 22px; transform: rotate(-3deg); margin-bottom: 72px; }
+.story .sticker__photo { border-radius: 14px 14px 0 0; }
+.story .badge { top: 16px; height: 62px; padding: 0 16px; border-radius: 12px; font-size: 40px; }
+.story .badge--n { left: 16px; min-width: 82px; }
+.story .badge--uf { right: 16px; font-size: 28px; }
+.story .sticker__band { padding: 18px 22px; border-radius: 0 0 14px 14px; }
+.story .sticker__band b { font-size: 58px; }
+.story .info { justify-items: center; gap: 26px; }
+.story h1 { font-size: var(--fs, 112px); }
+.story .occ { font-size: 46px; }
+.story .occ span { min-width: 78px; height: 60px; border-radius: 30px; font-size: 40px; vertical-align: 4px; }
+.story .res { justify-content: center; font-size: 34px; gap: 16px 24px; }
+.story .res b { font-size: 54px; }
+.story .medal { height: 66px; padding: 0 28px; border-radius: 33px; font-size: 34px; }
+.story .place { font-size: 32px; }
+.story .bon { justify-self: center; height: 68px; padding: 0 28px 0 20px; border-radius: 34px; font-size: 34px; gap: 12px; }
+.story .bon svg { width: 36px; height: 36px; }
+/* com o selo, a figurinha encolhe um pouco para a pilha caber entre as margens do app */
+.story.has-bon .kick { margin-bottom: 40px; }
+.story.has-bon .sticker { width: 570px; margin-bottom: 52px; }
+.story.has-bon .sticker__band b { font-size: 52px; }
+.story .foot { left: 80px; right: 80px; bottom: 150px; justify-content: center; gap: 22px; font-size: 26px; }
+.story.cover { padding: 210px 60px 250px; }
+.story.cover h1 { font-size: 200px; line-height: 0.82; }
+.story.cover .kick { margin-bottom: 36px; }
+.story .fan { width: 100%; height: 760px; margin-bottom: 40px; }
+.story .fan .sticker { width: 330px; padding: 10px; margin: 0; }
+.story .fan .sticker__band b { font-size: 36px; }
+.story .fan .badge { top: 10px; height: 44px; font-size: 28px; padding: 0 10px; }
+.story .fan .badge--n { left: 10px; min-width: 56px; }
+.story .fan .badge--uf { right: 10px; font-size: 20px; }
+.story .fan .sticker:nth-child(1) { transform: translate(-128%, -40%) rotate(-11deg); }
+.story .fan .sticker:nth-child(2) { transform: translate(-90%, -50%) rotate(-5deg); }
+.story .fan .sticker:nth-child(3) { transform: translate(-50%, -58%) rotate(1deg); }
+.story .fan .sticker:nth-child(4) { transform: translate(-10%, -50%) rotate(6deg); }
+.story .fan .sticker:nth-child(5) { transform: translate(28%, -40%) rotate(11deg); }
+.story .tally { justify-content: center; max-width: none; gap: 16px; margin-top: 56px; }
+.story .tally span { padding: 14px 24px; font-size: 30px; border-radius: 18px; }
+.story .tally b { font-size: 60px; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+// ?id=<id do competidor> ou ?id=album (&fmt=story para o formato vertical); os dados vêm de public/data.json
+(async () => {
+  const SEC = { 'Construção e Edificações': '#c9500f', 'Artes Criativas e Moda': '#d6246f', 'Tecnologia da Informação': '#0a78c2', 'Manufatura e Engenharia': '#0a7a44', 'Serviços Sociais e Pessoais': '#7442c2', 'Transporte e Logística': '#d9352a' };
+  const MEDAL = { prata: 'Medalha de Prata', bronze: 'Medalha de Bronze', excelencia: 'Medalha de Excelência', participacao: 'Participação' };
+  const UFN = { AC: 'Acre', AL: 'Alagoas', AP: 'Amapá', AM: 'Amazonas', BA: 'Bahia', CE: 'Ceará', DF: 'Distrito Federal', ES: 'Espírito Santo', GO: 'Goiás', MA: 'Maranhão', MT: 'Mato Grosso', MS: 'Mato Grosso do Sul', MG: 'Minas Gerais', PA: 'Pará', PB: 'Paraíba', PR: 'Paraná', PE: 'Pernambuco', PI: 'Piauí', RJ: 'Rio de Janeiro', RN: 'Rio Grande do Norte', RS: 'Rio Grande do Sul', RO: 'Rondônia', RR: 'Roraima', SC: 'Santa Catarina', SP: 'São Paulo', SE: 'Sergipe', TO: 'Tocantins' };
+  const STAR = '<svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.8l2.7 5.7 6.2.8-4.6 4.3 1.2 6.2L12 16.8l-5.5 3 1.2-6.2L3.1 9.3l6.2-.8z"/></svg>';
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+  const n2 = n => String(n).padStart(2, '0');
+  const D = await (await fetch('/public/data.json')).json();
+  const sk = n => D.skills.find(s => s.n === n);
+  const photo = p => '/public/' + (p.photos.flickr?.[0] || p.photos.portrait);
+  const sticker = p => `<div class="sticker" style="--sec:${SEC[sk(p.n).sector]}"><div class="sticker__photo"><img src="${photo(p)}" alt=""><span class="badge badge--n">${n2(p.n)}</span><span class="badge badge--uf">${p.uf}</span>${sk(p.n).bestOfNation ? `<span class="sash">${STAR}Best of Nation${STAR}</span>` : ''}</div><div class="sticker__band"><b>${esc(p.short)}</b></div></div>`;
+  const q = new URLSearchParams(location.search), id = q.get('id'), story = q.get('fmt') === 'story' ? ' story' : '';
+  const root = document.getElementById('root');
+  if (id === 'album') {
+    const c = m => D.skills.filter(s => s.medal === m).length;
+    const medal = D.skills.filter(s => s.medal === 'prata' || s.medal === 'bronze').sort((a, b) => (a.medal === 'prata' ? 0 : 1) - (b.medal === 'prata' ? 0 : 1) || b.mark - a.mark);
+    const pick = medal.flatMap(s => s.competitors).slice(0, 5).map(i => D.people.find(p => p.id === i));
+    const order = [pick[3], pick[1], pick[0], pick[2], pick[4]].filter(Boolean);
+    const tally = `<p class="tally"><span><b>${D.people.length}</b>competidores</span><span><b>${c('prata')}</b>pratas</span><span><b>${c('bronze')}</b>bronzes</span><span><b>${c('excelencia')}</b>excelências</span></p>`;
+    root.innerHTML = story
+      ? `<div class="card cover story"><p class="kick">WorldSkills Shanghai 2026</p><div class="fan">${order.map(sticker).join('')}</div><h1>Brasil em <em>Shanghai</em></h1>${tally}<p class="foot"><span>Álbum da delegação brasileira</span></p></div>`
+      : `<div class="card cover"><div class="info"><p class="kick">WorldSkills Shanghai 2026</p><h1>Brasil em <em>Shanghai</em></h1>${tally}</div>
+      <div class="fan">${order.map(sticker).join('')}</div></div>`;
+  } else {
+    const p = D.people.find(x => x.id === +id), s = sk(p.n);
+    const where = [p.city, UFN[p.uf]].filter(Boolean).join(', ');
+    const fs = story ? (p.name.length > 30 ? 84 : p.name.length > 22 ? 98 : 112) : (p.name.length > 30 ? 70 : p.name.length > 22 ? 80 : 92);
+    root.innerHTML = `<div class="card${story}${story && s.bestOfNation ? ' has-bon' : ''}" style="--sec:${SEC[s.sector]}">${story ? '<p class="kick">WorldSkills Shanghai 2026 · Brasil</p>' : ''}${sticker(p)}
+      <div class="info">${story ? '' : '<p class="kick">WorldSkills Shanghai 2026 · Brasil</p>'}
+        <h1 style="--fs:${fs}px">${esc(p.name)}</h1>
+        <p class="occ"><span>${n2(p.n)}</span>${esc(s.pt)}</p>
+        <p class="res">${s.medal !== 'participacao' ? `<span class="medal" data-m="${s.medal}">${MEDAL[s.medal]}</span><span><b>${s.position}º</b> de ${s.total}</span>` : ''}<span><b>${s.mark}</b> pontos</span></p>
+        ${s.bestOfNation ? '<p class="bon"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2.8l2.7 5.7 6.2.8-4.6 4.3 1.2 6.2L12 16.8l-5.5 3 1.2-6.2L3.1 9.3l6.2-.8z"/></svg>Best of Nation <em>· Melhor da nação</em></p>' : ''}
+        ${where ? `<p class="place">${esc(where)}</p>` : ''}</div>
+      <p class="foot"><span>Álbum da delegação brasileira</span><i>Brasil em Shanghai</i></p></div>`;
+  }
+  await document.fonts.ready;
+  await Promise.all([...document.images].map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
+  document.body.dataset.ready = 'true';
+})();
+</script>
+</body>
+</html>

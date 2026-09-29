@@ -1,0 +1,68 @@
+/* ── Páginas do álbum ─────────────────────────────────── */
+.album { padding-block: 14px 12px; display: grid; gap: 28px; }
+.page {
+  --sec: var(--s-construcao);
+  position: relative;
+  border-radius: 18px;
+  padding: clamp(16px, 2.4vw, 30px);
+  background:
+    radial-gradient(circle at 1.5px 1.5px, rgb(255 255 255 / 0.16) 1.5px, transparent 0) 0 0 / 12px 12px,
+    var(--sec);
+  box-shadow: 0 24px 50px -30px rgb(0 0 0 / 0.9);
+  color: #fff;
+}
+.page[hidden] { display: none; }
+.page__head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 10px 24px; margin-bottom: 18px; }
+.page__letter {
+  flex-shrink: 0; display: grid; place-items: center; width: 1.15em; height: 1.15em; border-radius: 50%;
+  background: #fff; color: var(--sec); font-size: 0.8em;
+}
+.page--all { --sec: var(--cover-3); }
+.page__title { display: flex; align-items: center; gap: 0.3em; margin: 0; font: 900 clamp(2rem, 1.3rem + 2.6vw, 3.4rem)/0.9 var(--display); text-transform: uppercase; }
+.page__stats { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 14px; }
+.page__stats b { display: block; font: 800 1.6rem/1 var(--display); }
+.page__grid {
+  --col-gap: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(178px, 1fr));
+  gap: 22px var(--col-gap);
+  align-items: start;
+}
+@media (max-width: 480px) { .page__grid { --col-gap: 10px; grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 16px; } }
+.occ { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; align-content: start; min-width: 0; }
+.occ--duo { grid-column: span 2; }
+.occ__head { display: flex; align-items: center; gap: 8px; min-height: 34px; }
+@media (max-width: 360px) { .occ__head { flex-wrap: wrap; gap: 6px; } .occ__name { font-size: 0.98rem; } }
+.occ__n {
+  flex-shrink: 0; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%;
+  background: #fff; color: var(--sec); font: 900 1rem/1 var(--display);
+}
+.occ__name { min-width: 0; font: 700 1.05rem/1.05 var(--display); text-transform: uppercase; letter-spacing: 0.01em; overflow-wrap: break-word; hyphens: auto; }
+/* a dupla ocupa duas colunas com o mesmo vão da grade: cada figurinha fica do tamanho das individuais */
+.occ__stickers { display: grid; grid-template-columns: repeat(var(--cols, 1), minmax(0, 1fr)); gap: 10px var(--col-gap, 10px); }
+[data-cell] { position: relative; }
+[data-cell][data-ok="true"]::before {
+  content: ''; position: absolute; inset: -4px; border-radius: 13px; border: 2px dashed rgb(255 255 255 / 0.5); pointer-events: none;
+}
+.page .sticker { transform: rotate(var(--rot, 0deg)); }
+/* lacuna impressa: o lugar da figurinha que o filtro tirou */
+.slot {
+  display: grid; place-items: center; align-content: center; gap: 4px; width: 100%;
+  min-height: 118px; border-radius: var(--r-sticker);
+  border: 2px dashed rgb(255 255 255 / 0.55); color: rgb(255 255 255 / 0.85); text-align: center; padding: 10px;
+}
+.slot b { font: 900 2.6rem/1 var(--display); }
+.slot span { font: 600 12px/1.25 var(--body); }
+/* animação de colar e descolar */
+@keyframes stick { from { opacity: 0; transform: scale(1.06) rotate(-2deg); } to { opacity: 1; transform: none; } }
+@keyframes peel { from { opacity: 0; transform: translateY(-6px) rotate(3deg); } to { opacity: 1; transform: none; } }
+.stick-in { animation: stick 360ms var(--ease-out) both; }
+.peel-in { animation: peel 260ms var(--ease-out) both; }
+@media (prefers-reduced-motion: reduce) { .stick-in, .peel-in { animation: none; } }
+.q-staff { margin-top: 18px; padding: 14px 16px 16px; border-radius: 16px; background: rgb(255 255 255 / 0.07); color: var(--on-cover); box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.14); }
+.q-staff h3 { margin: 0 0 10px; font: 800 1.15rem/1 var(--display); text-transform: uppercase; letter-spacing: 0.02em; }
+.q-staff__list { display: grid; grid-template-columns: repeat(auto-fill, minmax(86px, 1fr)); gap: 10px; max-width: 720px; }
+.empty-note {
+  display: none; padding: 28px; border-radius: 18px; background: var(--paper); color: var(--ink); text-align: center;
+}
+.empty-note[data-show="true"] { display: block; }

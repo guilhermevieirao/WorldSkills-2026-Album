@@ -1,0 +1,238 @@
+{
+ "https://worldskills2026.com/skills/cnc-turning/": {
+  "about": "Creating prototypes from technical designs using a computer controlled lathe that cuts to ultra-fine specifications.\n\nWhen engineers want to know if a specific part of a design is going to work, they look to CNC Turning. The finished article is used to create pieces of machinery that are often highly-complex. A typical car has around 10,000 parts alone.\n\nA trained operator will be familiar with many types of materials, ensuring the dimensions of the finished piece exactly match the design specifications.",
+  "br": [
+   {
+    "name": "LEONARDO ENRIQUE CRUZ",
+    "src": "https://images.worldskillsusercontent.org/ws41/wsd3/99862/ws41d3ff85-f7f4-4059-b813-85f5832cfa0c_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsc7/ws82/15143/wsc78270ef-0695-45d4-aee1-32500112e130_medium",
+   "https://images.worldskillsusercontent.org/ws62/ws1c/14960/ws621cfd96-f1cd-4e05-ae58-32bd9b59f88b_medium"
+  ],
+  "nports": 24
+ },
+ "https://worldskills2026.com/skills/cnc-milling/": {
+  "about": "Shaping metal and other solid materials using a computer-controlled milling machine to create products used in almost every aspect of modern life, from cars and smart phones to kitchen appliances and prosthetic limbs.\n\nMany of the appliances and objects we use every day depend on Computer Numeric Control (CNC) Milling. It is a highly sophisticated piece of machinery that creates components using precise cutting tools.\n\nThe machinist must be able to understand complex technical drawings, and have knowledge and experience of computer skills and software in order to become a skilled machine operator with an understanding of how various metals behave during the cutting process.",
+  "br": [
+   {
+    "name": "ALISSON GABRIEL GENOVA DE OLIVEIRA",
+    "src": "https://images.worldskillsusercontent.org/wsb1/ws05/99865/wsb10524e3-fca7-4922-a890-07da75219870_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws8b/ws3b/8/ws8b3b8287-70b5-4f62-b0ee-af6c20b9bf6d_medium",
+   "https://images.worldskillsusercontent.org/ws94/wse4/14956/ws94e447a6-8c10-494b-9e12-6d92af0acc0d_medium"
+  ],
+  "nports": 26
+ },
+ "https://worldskills2026.com/skills/welding/": {
+  "about": "Preparing and joining various types of metal using both electrical, and electric/gas processes.\n\nWelders work with different metals to cut and join everything from steel beams to pipes, plates, and pressurized vessels.\n\nBeing able to operate the various types of welding equipment both safely and accurately is of the highest importance. This can include the latest types of submerged arc, plasma arc, stud welding, and laser welding.\n\nWelders need to prepare and finish joints in a wide ranges of industries and locations, from a factory workbench or construction site to a power station or ship at sea.",
+  "br": [
+   {
+    "name": "FELIPE DE SOUZA ROCHA",
+    "src": "https://images.worldskillsusercontent.org/wsab/wsc4/99872/wsabc4de04-0a63-4a82-bf87-b7648e0d489e_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsd5/ws72/11/wsd57295c3-47ba-4a5d-95cf-2b8b8b832bcf_medium",
+   "https://images.worldskillsusercontent.org/wsf4/ws5e/15111/wsf45ea98e-e5cc-40de-9722-5d4167771bd1_medium"
+  ],
+  "nports": 44
+ },
+ "https://worldskills2026.com/skills/electronics/": {
+  "about": "Assembling and wiring products, testing systems, and designing prototype circuits.\n\nVariety is the key to a successful career in electronics. Technicians and engineers are needed to operate specialist equipment in workplaces that will range from aerospace and the armed forces to the entertainment industry, robotics, education, health, and telecommunications.\n\nTechnicians and engineers will need to understand detailed specifications and international quality standards and keep abreast of the latest developments in technology.",
+  "br": [
+   {
+    "name": "JOÃO LUCAS RAMOS BATISTA",
+    "src": "https://images.worldskillsusercontent.org/wsdb/ws0a/99885/wsdb0a8e65-3228-4d25-bca5-235715dfebd8_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws93/wsb7/17/ws93b7bc06-167c-4aab-8b3b-96ec7dd4ad67_medium",
+   "https://images.worldskillsusercontent.org/ws88/ws73/14980/ws887328c0-bb50-4973-86ac-a0da5acb5b80_medium"
+  ],
+  "nports": 22
+ },
+ "https://worldskills2026.com/skills/industrial-control/": {
+  "about": "Installing, troubleshooting, and maintaining industrial automated and electrical production systems.\n\nAutomation is of increasing importance in the industrial control of production systems. It requires the ability to troubleshoot, both during installation and in working systems, either across industries or in a specialist area.\n\nIndustrial control electricians will need a wide range of skills, learning the installation of cables, instruments and control centers, circuit design and programming. Automation technology is developing rapidly, requiring a strong interest in keeping up with the very latest developments.",
+  "br": [
+   {
+    "name": "KAWAN COSTA ALVES DE SOUZA",
+    "src": "https://images.worldskillsusercontent.org/wsa8/ws51/99892/wsa8513877-781f-4a62-91ad-d16e790a6fc3_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsc5/wse9/19/wsc5e9bdbd-84a9-4129-afdd-cb8cb57ba7c6_medium",
+   "https://images.worldskillsusercontent.org/ws1c/ws7c/15008/ws1c7cd994-bf6c-47a8-8c33-edc441352975_medium"
+  ],
+  "nports": 22
+ },
+ "https://worldskills2026.com/skills/autonomous-mobile-robotics/": {
+  "about": "Designing, building, and maintaining robots to solve problems in industries from manufacturing to aerospace, mining to medicine.\n\nRobots play an increasing role in our lives and places of work in areas as diverse as manufacturing, agriculture, aerospace, mining, and medicine.\n\nMobile robots begin with a design and then a prototype which must be programmed and tested to make sure it offers a high and consistent level of performance.\n\nThe mobile robotics engineer must be familiar with logic, microprocessors, and computer programming and prepare specifications for the robot's capabilities as they relate to the work environment. They are also responsible for cost efficient design, cost-price calculations, and quality control.",
+  "br": [
+   {
+    "name": "ARTHUR BARUD",
+    "src": "https://images.worldskillsusercontent.org/ws08/wsc9/99939/ws08c94aa8-5ace-475a-acab-36cbadceb2d1_medium"
+   },
+   {
+    "name": "GUSTAVO GABRIEL DUTRA ALVES",
+    "src": "https://images.worldskillsusercontent.org/ws61/ws32/99938/ws6132c151-3593-4508-95d8-c160cc6b8822_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsea/wsff/15147/wseaff1b00-1904-4eba-8e9a-9d58710e35ba_medium",
+   "https://images.worldskillsusercontent.org/wsdc/wsbc/15054/wsdcbc6c6d-e158-4b96-89f9-697fb4e6ee84_medium"
+  ],
+  "nports": 42
+ },
+ "https://worldskills2026.com/skills/industry-4-0/": {
+  "about": "Industry 4.0 refers to the impact information and communication technologies are having on real-time optimization and networking for efficient automation and production.\n\nWhen we talk about Industry 4.0, we mean the impact information and communication technologies (ICT) are having on real-time optimization and networking for efficient automation and production. This is sometimes also called the “fourth industrial revolution”.\n\nIt is the role of the Digital Production Systems Technician to implement Industry 4.0 in businesses, designing and implementing systems, introducing both software and hardware, and supporting programmes, especially cybersecurity.\n\nA Digital Production Systems Technician must be continually aware of changes and recognize advances in technology means they must be continually learning.\n\nThey must understand the business case for implementing Industry 4.0 and design systems accordingly. They should combine strong technical knowledge with an eye on future industry developments, while being constantly aware of risk and security.",
+  "br": [
+   {
+    "name": "JOÃO VICTOR CALIARO",
+    "src": "https://images.worldskillsusercontent.org/ws8a/wsf8/99969/ws8af8d5e9-13be-45bc-bd3d-055e58a8957f_medium"
+   },
+   {
+    "name": "GUSTAVO VITOR PEREIRA DE SOUSA",
+    "src": "https://images.worldskillsusercontent.org/ws6e/ws41/99968/ws6e41b565-63e7-4cf1-9f92-8aeabe20ee81_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws96/ws1e/31291/ws961e90ae-e355-4459-a077-74c27042a111_medium",
+   "https://images.worldskillsusercontent.org/ws54/wsb3/49956/ws54b3cef4-e35a-41d7-b672-a28cc2092397_medium"
+  ],
+  "nports": 38
+ },
+ "https://worldskills2026.com/skills/chemical-laboratory-technology/": {
+  "about": "Chemical Laboratory Technology studies substances to determine their chemical composition for research or to develop products.\n\nLaboratory chemical analysts study substances to determine their chemical composition for research or to develop products. Chemical analysis is necessary to ensure the properties of raw materials, the intermediate stages of the technological processes, and the finished products comply with current standards.\n\nLaboratory chemical analysts use various tools and methods to analyse natural and synthetic materials, as well as performing qualitative and quantitative tests using modern chemical and physico-chemical analytical methods. They need to be well-versed in chemistry and must have adequate knowledge of biology and physics. Critical thinking, time management, decision making, and problem-solving skills are also necessary for this career. Laboratory chemical analysts should be able to act logically and systematically, complying with sanitary and hygienic requirements and occupational safety and health standards.\n\nLaboratory chemical analysts work in the chemical laboratories of quality-control departments, research and development departments, or in environmental departments in plants in chemical, petrochemical and pharmaceutical industries. Greater interest in environmental issues, such as pollution control, clean energy, and sustainability, are expected to increase the demand for chemistry research and development.",
+  "br": [
+   {
+    "name": "JOÃO VIEIRA",
+    "src": "https://images.worldskillsusercontent.org/wsc0/wsd5/99977/wsc0d51a1f-868d-4d94-bca3-dd391ea092b9_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws43/ws6c/32876/ws436ce4ea-436f-4d7e-9c17-c6bdedf54ef1_medium",
+   "https://images.worldskillsusercontent.org/ws71/wsdd/30238/ws71dd210a-4da7-47df-9014-d9a54bda347a_medium"
+  ],
+  "nports": 13
+ },
+ "https://worldskills2026.com/skills/water-technology/": {
+  "about": "Monitor and test water quality, supervise the operation and maintenance of water/wastewater treatment works and other water infrastructures, and protect water from pollution.\n\nWater engineering technicians monitor and test water quality to ensure it is safe for consumption. Water is our most precious resource, which needs special protection. It needs to be extracted from wells or springs, or obtained from a lake or river before it gets treated to become drinking water. It will go through a series of treatment processes to make it clean. Treated clean water will then be stored and distributed for us to use. Water engineering technicians take care of all these tasks.\n\nThey supervise the operation and maintenance of water and wastewater treatment works as well as other water infrastructures, like pump stations and sewer systems. They may be called upon to perform routine maintenance on equipment, like replacing filters, checking calibration levels, etc. They will work with a team of scientists to ensure water is free from pollution and local ecosystems remain healthy.",
+  "br": [
+   {
+    "name": "LEONARDO SANTOS BERTHO",
+    "src": "https://images.worldskillsusercontent.org/wsd1/wsbe/99986/wsd1be1c37-3ddc-4490-ba0e-f1af07ee6b0f_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws51/ws61/16229/ws516139ce-e2bd-471c-aa19-ec0d8b003583_medium",
+   "https://images.worldskillsusercontent.org/wsdc/wsa0/16231/wsdca02b9e-a64e-4735-84c2-410c550a3dfb_medium"
+  ],
+  "nports": 16
+ },
+ "https://worldskills2026.com/skills/additive-manufacturing/": {
+  "about": "More commonly known as 3D printing, Additive Manufacturing is a way of creating objects, such as design prototypes, from three-dimensional models by building up layers of material.\n\nOne of the newest and fastest-growing branches of engineering, Additive Manufacturing is more commonly known as 3D printing.\n\nTraditional manufacturing methods, such as milling and turning, cut away material to create the desired end product. In Additive Manufacturing, layers are added in succession to achieve the same result.\n\nAdditive Manufacturing can be a more agile way to create strong and complex objects, such as prototypes, for industry and designers, and with less waste.\n\nWorking in Addictive Manufacturing requires a new approach to design and manufacturing. This includes a thorough understanding of the equipment for 3D printing and scanning, and the characteristics of the materials used, along with applied mathematics, geometry, and Computer Aided Design and Engineering (CAD and CAE). An understanding and imagination for the potential future uses of this technology is essential.",
+  "br": [
+   {
+    "name": "MARCUS VINICIUS SANTOS",
+    "src": "https://images.worldskillsusercontent.org/ws2c/ws7c/99991/ws2c7c018c-c86d-4638-b2c7-02a13bcd26f0_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws01/ws37/31286/ws01372085-d608-49c1-80cb-6180796a682d_medium",
+   "https://images.worldskillsusercontent.org/ws66/ws19/31287/ws6619b461-f9fa-4f62-91e6-5f12170871de_medium"
+  ],
+  "nports": 14
+ },
+ "https://worldskills2026.com/skills/industrial-design-technology/": {
+  "about": "Industrial Design Technology combines design and engineering to ensure consumer products work well and look good.\n\nConsumer products for mass consumption need both to work well and look good. This is the role of Industrial Design Technology, which also makes sure that a new product is technically feasible to make, meets the need in the marketplace, and can be sold at an acceptable price.\n\nIndustrial Design Technology combines design and engineering. In smaller companies and start-ups, this can mean covering all stages of the process or working as part of a team in larger organizations.\n\nIndustrial Design Technology requires a wide range of skills and understanding, including market research, design, engineering, product analysis, materials, and good communication.\n\nYou should understand the process of product creation, from concept to production, be good at problem-solving, and be aware of all the tools and techniques to support design and development.",
+  "br": [
+   {
+    "name": "RAFAEL SEIKITI NISHIHARA CANDIDO",
+    "src": "https://images.worldskillsusercontent.org/ws43/ws42/99996/ws43423017-5b72-42a4-89c4-6d37f7b649c5_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsd9/wsbf/32880/wsd9bfbc82-1e58-4497-9403-cbb2df9cb721_medium",
+   "https://images.worldskillsusercontent.org/wsb6/ws61/49994/wsb661713d-31ba-4198-8337-801278e7aabd_medium"
+  ],
+  "nports": 15
+ },
+ "https://worldskills2026.com/skills/optoelectronic-technology/": {
+  "about": "Optoelectronics is an emerging technology used in a range of applications from lighting products to medical research and treatment, advanced manufacturing devices to measuring technology.\n\nOptoelectronics is an emerging technology that combines the physics of light with electricity so that one can control the other. We see it in products like LED lights, solar cells, and optical fibre cables, among many.\n\nIts applications are equally wide, from lighting products to medical research and treatment, advanced manufacturing devices and measuring technology.\n\nOptoelectronic Technicians can also work in a diverse range of fields, including development, production, and maintenance. They must work with accuracy and precision and meet customer specifications and international standards. They can be involved in manufacturing, commissioning, and providing support for these devices.\n\nOptoelectronic Technicians must be able to work with optical, electrical, magnetic, and mechanical systems in the manufacture of devices. They must be familiar with the environmental impact on systems when installing them and be up to date with the changes brought by new technologies in the industry. It is a fast-growing occupation with prospects to develop both a broad and specific range of expertise.",
+  "br": [
+   {
+    "name": "KAIQUE WILLIAM VENTURA CAMACHO",
+    "src": "https://images.worldskillsusercontent.org/wseb/ws62/99998/wseb625a89-d44b-4a17-8965-19f3a293be68_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws98/ws4f/31296/ws984fadd0-5954-4d94-9df9-831cfe083b11_medium",
+   "https://images.worldskillsusercontent.org/ws81/ws96/31297/ws8196392d-bc09-41a3-b39f-4f052e42fb5e_medium"
+  ],
+  "nports": 13
+ },
+ "https://worldskills2026.com/skills/renewable-energy/": {
+  "about": "Renewable Energy Technicians ensure the equipment for collecting, generating, or distributing power from a wide variety of sources including wind, water, solar and geothermal, is properly maintained and operates efficiently.\n\nRenewable Energy is central to solving our current climate crisis and ensuring the health and growth of future economies.\n\nIt uses a wide range of sources to supply power, from wind and water to solar power, organic matter, and even geothermal heat from the earth’s core. \n\nIt is the role of a Renewable Energy Technician to ensure the equipment for collecting, generating, or distributing power from their sources is properly maintained and operates efficiently.\n\nA Renewable Energy Technician can expect to work both indoors and outdoors and in conditions that are often challenging, including extremes of heat and cold, at heights, and in remote locations.\n\nProblem-solving skills are essential, along with a detailed knowledge of the different technologies and the tools needed to work on them. Physical strength is needed to lift heavy equipment and operate power tools while following health and safety rules.",
+  "br": [
+   {
+    "name": "KEVIN GABRIEL GONÇALVES SILVA",
+    "src": "https://images.worldskillsusercontent.org/wsf0/ws8e/100003/wsf08eb1ef-3208-4cfb-9f30-4652bb84816a_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wse6/ws2f/31305/wse62ff144-cd93-4f2d-a296-a9dd535dfa15_medium",
+   "https://images.worldskillsusercontent.org/wsf7/wsee/31307/wsf7ee9e19-12dc-49bc-b30a-8c56a5baa551_medium"
+  ],
+  "nports": 13
+ },
+ "https://worldskills2026.com/skills/robot-systems-integration/": {
+  "about": "Robot Systems Integration ensures that robots fit properly in the production process.\n\nThe number of robots used in industry has increased rapidly, with an estimated 400,000 installed every year. Robot Systems Integration ensures that they fit properly in the production process. \n\nIn order to perform complex and precise tasks, robots rely on skilled human resources to install and maintain them.\n\nRobot integrators must be able to assess the best type of robot for a particular task, which might include lifting, loading and unloading, and welding, and then deciding where to place them.\n\nOther considerations include managing the flow of parts, developing and installing suitable programming, and the safety of the human workforce around them,\n\nA Robot Systems Integration technician will provide technical solutions for incorporating them into production processes, from the preliminary assessment to connecting them to power and to other automated systems.\n\nThey should be aware of the latest developments in manufacturing and control systems, including the multi-articulated arm, and the evolution of regulations for robotization. \n\nWhile larger businesses such as motor manufacturing were early adopters of robots, their potential for small and medium-sized business (SMEs) represents a large and growing opportunity for skilled technicians.",
+  "br": [
+   {
+    "name": "BRUNO GABRIEL OLIVEIRA",
+    "src": "https://images.worldskillsusercontent.org/wsd9/wsee/100006/wsd9ee1398-4259-4c81-891e-359d14b59305_medium"
+   },
+   {
+    "name": "ALEXANDRE RODRIGUES",
+    "src": "https://images.worldskillsusercontent.org/ws40/ws76/100005/ws40769cf0-2566-4564-9b6a-a2df36daea79_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/wsda/wsaa/50010/wsdaaa0b07-9485-49ea-88f0-7219d29c1190_medium",
+   "https://images.worldskillsusercontent.org/wsc5/wsb7/50011/wsc5b7b982-8339-4979-bdf5-cce07fa82379_medium"
+  ],
+  "nports": 48
+ },
+ "https://worldskills2026.com/skills/hairdressing/": {
+  "about": "Cutting, styling, treating, and colouring hair for men, women, and children in a work environment that ranges from homes and salons, to film and television productions.\n\nA visit to the hairdresser can be much more than a quick trim. It can involve styling, colouring, and using special treatments. You work closely with your clients and it’s important to have good people and communication skills in addition to a full range of professional hairdressing skills.\n\nThe hairdresser is expected to understand different types of hair, to interpret the client’s wishes, and work safely with the products involved.",
+  "br": [
+   {
+    "name": "ANGÉLICA CHINA MATSUDA",
+    "src": "https://images.worldskillsusercontent.org/ws34/ws73/99915/ws3473cfdd-092e-4f22-87ee-0e88c8d2b43b_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws33/ws29/28/ws3329f4d0-1456-4333-becf-b306c7105bd9_medium",
+   "https://images.worldskillsusercontent.org/ws26/ws97/14996/ws2697dda5-bdc2-4e1c-8958-e7cce0f13a5f_medium"
+  ],
+  "nports": 36
+ },
+ "https://worldskills2026.com/skills/beauty-therapy/": {
+  "about": "The beauty therapist offers a head-to-toe experience that improves the client’s quality of life by making them look and feel their best.\n\nBeauty Therapy work includes a variety of skills from nail and skin care to body massage and make-up expertise.\n\nBeauty therapists work in close contact with their clients and that relationship is at the heart of the job. In addition to demonstrating a wide range of beauty treatment the role also has a therapeutic element which can help the client’s sense of well-being and self-esteem.\n\nThe beauty business is subject to changes in styles and trends so it is important to keep in touch with the latest developments in the industry.",
+  "br": [
+   {
+    "name": "MARIA EDUARDA GUERREIRO DA SILVEIRA",
+    "src": "https://images.worldskillsusercontent.org/wsa0/ws44/99918/wsa0449fe9-ea05-43a1-a613-41ccd626f9d4_medium"
+   }
+  ],
+  "gallery": [
+   "https://images.worldskillsusercontent.org/ws52/ws6e/29/ws526e22d6-d7b3-4339-8180-eb92e7b41a94_medium",
+   "https://images.worldskillsusercontent.org/wse6/wsda/14932/wse6da98ad-137b-4233-b1e4-3ab54ce43f6a_medium"
+  ],
+  "nports": 25
+ }
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Escolha o mundo visual da página da delegação",
+  "question": "O sorteio escolheu \"Camisa da seleção\". Fique com ela, adote uma alternativa ou peça outro sorteio.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Camisa da seleção",
+      "kicker": "THE ROLL",
+      "lineage": "Uniformes esportivos brasileiros: costas da camisa com nome e número estampados, lista de convocação e vestiário",
+      "thesis": "Cada competidor é a camisa que ele vestiu: nome nas costas e o número da ocupação como número da camisa (Renan sonhava com a 8 e hoje veste a #08).",
+      "palette": ["#f7d117", "#0b5d3b", "#123a8c", "#f4f2ea", "#101412"],
+      "materials": ["tecido dry-fit com trama de malha", "numerais em transfer de vinil", "etiqueta de gola", "lista de convocação"],
+      "viewport": "Uma parede de vestiário com 71 camisas penduradas em fileiras, cada uma com nome e número. As medalhistas têm etiqueta dourada/prata/bronze na gola. Os filtros (estado, região, resultado, setor) formam a barra de convocação no topo, e o quadro do Brasil (18º, 2 pratas, 6 bronzes, 29 excelências) aparece como o placar.",
+      "risk": "Pode puxar demais para o futebol e esconder que são profissões técnicas. A camisa precisa mostrar a ocupação e o resultado com a mesma força que o nome.",
+      "raised": [
+        { "from": "challenger-six-pack", "raise": "Todo resultado aparece em contexto, com posição sobre o total e a distância para o ouro, como um mostrador que traz tendência além do valor." },
+        { "from": "challenger-hypercard", "raise": "Cada camisa tem um endereço próprio (#), então dá para mandar o link do seu competidor." },
+        { "from": "challenger-single-hue", "raise": "O amarelo é assumido de verdade como chão da página, não como detalhe." },
+        { "from": "challenger-sewing", "raise": "O filtro escolhido fica com traço sólido e os demais tracejados, como a linha do tamanho escolhido no molde." }
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "Álbum de figurinhas",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "Álbuns de figurinhas de Copa do Mundo",
+      "thesis": "A delegação como álbum: cada competidor é uma figurinha, e os medalhistas são as brilhantes.",
+      "palette": ["#f3efe4", "#0e7a3e", "#f5c518", "#1b3f8f", "#c9a24a"],
+      "materials": ["papel couché", "figurinha brilhante", "página por estado", "envelope"],
+      "viewport": "Uma página dupla do álbum com as figurinhas de um estado. As lacunas vazias são quem ainda não foi filtrado, e as brilhantes são os medalhistas.",
+      "risk": "É a leitura mais óbvia para um público brasileiro e muito usada por marcas em época de Copa, então só funciona com execução impecável."
+    },
+    {
+      "id": "challenger-six-pack",
+      "label": "Painel de instrumentos",
+      "verdict": "declined",
+      "lineage": "Painel de voo noturno com seis instrumentos",
+      "thesis": "Resultados como mostradores luminosos.",
+      "palette": ["#0b0d0e", "#e9f0ea", "#58f08a", "#f0a92b"],
+      "materials": ["mostradores", "ponteiros"],
+      "viewport": "Seis mostradores com os números do Brasil.",
+      "case": "Recusado: o público quer ver pessoas, não instrumentos.",
+      "kept": "Resultado sempre em contexto: valor e tendência juntos.",
+      "risk": "Frio para uma página de torcida.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack-hero.webp"
+    },
+    {
+      "id": "challenger-hypercard",
+      "label": "Pilha HyperCard",
+      "verdict": "declined",
+      "lineage": "HyperCard",
+      "thesis": "Cartões preto e branco ligados por botões.",
+      "palette": ["#ffffff", "#000000"],
+      "materials": ["pontilhado 1-bit"],
+      "viewport": "Um cartão por competidor.",
+      "case": "Recusado: 1-bit apaga as fotos, que são o coração da página.",
+      "kept": "Cada cartão tem endereço próprio.",
+      "risk": "Sem cor e sem foto.",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-hypercard-stack-shoebox-hero.webp"
+    },
+    {
+      "id": "challenger-single-hue",
+      "label": "Programa de uma cor só",
+      "verdict": "declined",
+      "lineage": "Programa de marca de uma cor licenciada",
+      "thesis": "Uma cor dona de tudo.",
+      "palette": ["#f7d117", "#ffffff"],
+      "materials": ["brilho", "pílulas"],
+      "viewport": "Tudo em uma cor.",
+      "case": "Recusado como mundo inteiro: a ideia é de brinquedo, e ficaria infantil para profissões técnicas.",
+      "kept": "O compromisso total com uma cor, o amarelo.",
+      "risk": "Infantiliza.",
+      "hero": "https://impeccable.style/worlds/cards/brand-identity-canon-single-hue-doll-program-hero.webp"
+    },
+    {
+      "id": "challenger-sewing",
+      "label": "Molde de costura",
+      "verdict": "declined",
+      "lineage": "Envelope e papel de seda de molde de costura",
+      "thesis": "Linhas de corte, entalhes e setas de fio.",
+      "palette": ["#e9dcc0", "#1a1a1a", "#c8323a"],
+      "materials": ["papel de seda", "tracejado"],
+      "viewport": "Um molde desdobrado.",
+      "case": "Recusado: combina com Tecnologia da Moda, não com as outras 63 ocupações.",
+      "kept": "Linha sólida para o que está escolhido, tracejada para o resto.",
+      "risk": "Tema de uma ocupação só.",
+      "hero": "https://impeccable.style/worlds/cards/fashion-folded-worlds-sewing-pattern-envelope-hero.webp"
+    },
+    {
+      "id": "challenger-bitmap",
+      "label": "Espécime bitmap",
+      "verdict": "declined",
+      "lineage": "Espécimes tipográficos da Emigre",
+      "thesis": "Letras de pixel em escala de pôster.",
+      "palette": ["#f2f0ea", "#111111", "#ff3b1f"],
+      "materials": ["pixel", "retícula"],
+      "viewport": "Título em pixel gigante.",
+      "case": "Recusado: não tem relação com o tema.",
+      "kept": "O mesmo numeral repetido em vários tamanhos como sistema.",
+      "risk": "Estilo pelo estilo.",
+      "hero": "https://impeccable.style/worlds/cards/emigre-bitmap-specimen-hero.webp"
+    },
+    {
+      "id": "challenger-brine",
+      "label": "Calendário de conservas",
+      "verdict": "declined",
+      "lineage": "Potes de conserva por estação",
+      "thesis": "Potes numa prateleira.",
+      "palette": ["#eef2ea", "#e8735a", "#8a1c3a"],
+      "materials": ["vidro", "rótulo kraft"],
+      "viewport": "Prateleiras de potes.",
+      "case": "Recusado: sem relação com o tema.",
+      "kept": "A prateleira como fileira organizada, que vira o varal de camisas.",
+      "risk": "Fora do contexto.",
+      "hero": "https://impeccable.style/worlds/cards/food-fermentation-culinary-theater-pickling-brine-calendar-hero.webp"
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "buildPath": { "value": "code", "toggle": false },
+  "canon": true,
+  "canonCard": {
+    "label": "Padrão de painel esportivo",
+    "thesis": "Painel de resultados limpo: cards com foto, números grandes e filtros no topo, com acabamento de alto nível.",
+    "palette": ["#ffffff", "#0f172a", "#16a34a", "#eab308"],
+    "materials": ["grade de cards", "gráficos"],
+    "viewport": "Cabeçalho com totais, filtros e uma grade de cards com foto.",
+    "risk": "Parece qualquer outro painel de dados, e isso é intencional."
+  },
+  "steer": true
+}

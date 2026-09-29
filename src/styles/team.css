@@ -1,0 +1,32 @@
+/* delegação reunida */
+.delegation { margin: 0 0 28px; padding: 10px; border-radius: 18px; background: #fff; box-shadow: 0 24px 50px -30px rgb(0 0 0 / 0.9); }
+.delegation__frame { aspect-ratio: 3 / 2; border-radius: 10px; overflow: hidden; background: var(--paper-2); }
+.delegation img { width: 100%; height: 100%; object-fit: cover; }
+.delegation figcaption { padding: 10px 4px 2px; font-size: 13.5px; color: var(--ink-2); }
+/* ── Comissão técnica geral ───────────────────────────── */
+.team { margin-block: 28px; }
+.team__intro { max-width: 62ch; margin: 10px 0 20px; color: var(--ink-2); }
+.roles { display: flex; flex-wrap: wrap; gap: 26px 30px; align-items: flex-start; }
+.role { padding-top: 10px; border-top: 3px solid var(--ink); }
+.role h3 { margin: 0 0 12px; font: 800 1.3rem/1 var(--display); text-transform: uppercase; }
+.role__list { display: flex; flex-wrap: wrap; gap: 14px; }
+/* crachá da comissão: mesma anatomia da figurinha, faixa azul da capa */
+.card-staff { position: relative; display: block; border: 0; text-align: left; color: inherit; font: inherit; transition: transform 200ms var(--ease-out);
+  width: 150px; padding: 6px; border-radius: var(--r-sticker); background: #fff; box-shadow: var(--shadow-sticker); }
+.card-staff__photo { display: block; aspect-ratio: 4 / 5; overflow: hidden; border-radius: 6px 6px 0 0; background: var(--paper-2); }
+.card-staff__photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 20%; }
+.card-staff__band { display: block; padding: 7px 8px 6px; background: var(--cover); color: #fff; }
+/* nome e função numa linha cada, com altura fixa: todos os crachás do mesmo tamanho (components/fit.js encolhe o que não cabe) */
+.card-staff__name { display: block; font: 800 1.1rem/1.045rem var(--display); text-transform: uppercase; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+@media (hover: hover) and (pointer: fine) { .card-staff:hover { transform: translateY(-3px) rotate(-0.6deg); } }
+.card-staff__role { display: block; margin-top: 3px; font: 500 12px/14.4px var(--body); color: var(--on-cover-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.card-staff__uf {
+  position: absolute; top: 12px; right: 12px; height: 22px; padding: 0 6px; display: grid; place-items: center;
+  border-radius: 5px; background: #fff; color: var(--ink); font: 700 12px/1 var(--body);
+}
+@media (max-width: 480px) { .card-staff { width: calc(50vw - 42px); } }
+.groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin-top: 24px; }
+.groups figure { margin: 0; padding: 6px; border-radius: var(--r-sticker); background: #fff; box-shadow: var(--shadow-sticker); }
+.groups img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; object-position: 50% 18%; border-radius: 6px; background: var(--paper-2); }
+.groups figcaption { font-size: 12.5px; color: var(--ink-3); padding: 6px 2px 0; }
+.lazy-msg { font-size: 14px; color: var(--ink-3); }

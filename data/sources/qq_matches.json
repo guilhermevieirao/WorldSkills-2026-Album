@@ -1,0 +1,2432 @@
+{
+ "comp:1": {
+  "name": "Gustavo Carvalho Santos",
+  "n": 1,
+  "recs": [
+   {
+    "nome": "Gustavo Carvalho Santos",
+    "perfil": "Competidor",
+    "ocupacao": "Mecânica Industrial",
+    "skillNumber": "01",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d5a28e0359adcdc9.bin"
+   }
+  ]
+ },
+ "comp:2": {
+  "name": "Luiz Fernando Barbosa Santos",
+  "n": 2,
+  "recs": [
+   {
+    "nome": "Luiz Fernando Barbosa Santos",
+    "perfil": "Competidor",
+    "ocupacao": "Redes de Cabeamento Estruturados",
+    "skillNumber": "02",
+    "instituicao": "SENAI Pernambuco",
+    "local": "",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/f75fd0805d34a30f.bin"
+   }
+  ]
+ },
+ "comp:3": {
+  "name": "Erick da Cruz Fanka",
+  "n": 3,
+  "recs": [
+   {
+    "nome": "Erick Da Cruz Fanka",
+    "perfil": "Competidor",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Digital (online)",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/02073c2c6c102739.bin"
+   }
+  ]
+ },
+ "comp:4": {
+  "name": "Arthur Maia",
+  "n": 4,
+  "recs": [
+   {
+    "nome": "Arthur Maia",
+    "perfil": "Competidor",
+    "ocupacao": "Mecatrônica",
+    "skillNumber": "04",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "FESTO - São Caetano do Sul - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e99fef38f09072ee.bin"
+   }
+  ]
+ },
+ "comp:5": {
+  "name": "Daniel Henrique Bianquini Moraes Oliveira",
+  "n": 4,
+  "recs": [
+   {
+    "nome": "Daniel Oliveira",
+    "perfil": "Competidor",
+    "ocupacao": "Mecatrônica",
+    "skillNumber": "04",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "FESTO - São Caetano do Sul - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/3f8b69ba257a6a08.bin"
+   }
+  ]
+ },
+ "comp:6": {
+  "name": "Welinton Staleng Mendonça",
+  "n": 5,
+  "recs": [
+   {
+    "nome": "Welinton Mendonça",
+    "perfil": "Competidor",
+    "ocupacao": "Desenho Mecânico em CAD",
+    "skillNumber": "05",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Digital (online)",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/5235e8c53e2cd321.bin"
+   }
+  ]
+ },
+ "comp:7": {
+  "name": "Leonardo Enrique Cruz",
+  "n": 6,
+  "recs": [
+   {
+    "nome": "Leonardo Enrique Cruz",
+    "perfil": "Competidor",
+    "ocupacao": "Tornearia a CNC",
+    "skillNumber": "06",
+    "instituicao": "SENAI São Paulo",
+    "local": "ROMI - Santa Bárbara D'Oeste - SP",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/799ceda614bd77d7.bin"
+   }
+  ]
+ },
+ "comp:8": {
+  "name": "Alisson Gabriel Genova de Oliveira",
+  "n": 7,
+  "recs": [
+   {
+    "nome": "Alisson Genova",
+    "perfil": "Competidor",
+    "ocupacao": "Fresagem a CNC",
+    "skillNumber": "07",
+    "instituicao": "SENAI São Paulo",
+    "local": "ROMI - Santa Bárbara D'Oeste - SP",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/738ca984af3c4082.bin"
+   }
+  ]
+ },
+ "comp:9": {
+  "name": "Renan Gabriel Bernardes Coêlho",
+  "n": 8,
+  "recs": [
+   {
+    "nome": "Renan Gabriel Bernardes Coelho",
+    "perfil": "Competidor",
+    "ocupacao": "Desenvolvimento de Aplicativos Móveis",
+    "skillNumber": "08",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/3976b7b8b7fcf4b2.bin"
+   }
+  ]
+ },
+ "comp:10": {
+  "name": "Artur Fiorentino",
+  "n": 9,
+  "recs": [
+   {
+    "nome": "Artur Fiorentino",
+    "perfil": "Competidor",
+    "ocupacao": "Soluções em Softwares para Negócios",
+    "skillNumber": "09",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Caetano do Sul - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/c95a40c8cc56386e.bin"
+   }
+  ]
+ },
+ "comp:11": {
+  "name": "Felipe de Souza Rocha",
+  "n": 10,
+  "recs": [
+   {
+    "nome": "Felipe De Souza Rocha",
+    "perfil": "Competidor",
+    "ocupacao": "Soldagem",
+    "skillNumber": "10",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7e3f6af08d130b8c.bin"
+   }
+  ]
+ },
+ "comp:12": {
+  "name": "Gabriel Spinola Mendes da Silva",
+  "n": 11,
+  "recs": [
+   {
+    "nome": "Gabriel Spinola",
+    "perfil": "Competidor",
+    "ocupacao": "Desenvolvimento de Aplicativos Móveis",
+    "skillNumber": "08",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d0eee7f2bc301f4c.bin"
+   }
+  ]
+ },
+ "comp:13": {
+  "name": "Bruno Canuto de Souza",
+  "n": 12,
+  "recs": [
+   {
+    "nome": "Bruno Souza",
+    "perfil": "Competidor",
+    "ocupacao": "Revestimentos Cerâmicos",
+    "skillNumber": "12",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/bd2dbf366d22962b.bin"
+   }
+  ]
+ },
+ "comp:14": {
+  "name": "Lucas Eduardo Mortari",
+  "n": 13,
+  "recs": [
+   {
+    "nome": "Lucas Eduardo Mortari",
+    "perfil": "Competidor",
+    "ocupacao": "Funilaria Automotiva",
+    "skillNumber": "13",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/1d208022754d5f21.bin"
+   }
+  ]
+ },
+ "comp:16": {
+  "name": "Matteo Victor Barbosa",
+  "n": 15,
+  "recs": [
+   {
+    "nome": "Matteo Victor Barbosa",
+    "perfil": "Competidor",
+    "ocupacao": "Instalações Hidráulicas e de Aquecimento",
+    "skillNumber": "15",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a212b89b387338fb.bin"
+   }
+  ]
+ },
+ "comp:17": {
+  "name": "João Lucas Ramos Batista",
+  "n": 16,
+  "recs": [
+   {
+    "nome": "João Lucas Ramos Batista",
+    "perfil": "Competidor",
+    "ocupacao": "Eletrônica",
+    "skillNumber": "16",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a9ee31234de8662b.bin"
+   }
+  ]
+ },
+ "comp:18": {
+  "name": "André Brizido Basilio",
+  "n": 17,
+  "recs": [
+   {
+    "nome": "André Basilio",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia Web",
+    "skillNumber": "17",
+    "instituicao": "SENAI São Paulo",
+    "local": "Digital (online)",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a8f8b94b4d8e3353.bin"
+   }
+  ]
+ },
+ "comp:19": {
+  "name": "Rhuan Ferreira Barra",
+  "n": 18,
+  "recs": [
+   {
+    "nome": "Rhuan Ferreira Barra",
+    "perfil": "Competidor",
+    "ocupacao": "Instalações Elétricas",
+    "skillNumber": "18",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/ce8b3fb5fd24010e.bin"
+   }
+  ]
+ },
+ "comp:20": {
+  "name": "Kawan Costa Alves de Souza",
+  "n": 19,
+  "recs": [
+   {
+    "nome": "Kawan Costa Alves De Souza",
+    "perfil": "Competidor",
+    "ocupacao": "Controle Industrial",
+    "skillNumber": "19",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a70529eee41264b1.bin"
+   }
+  ]
+ },
+ "comp:21": {
+  "name": "Davi da Silva Aleixo Ignacio",
+  "n": 20,
+  "recs": [
+   {
+    "nome": "Davi Da Silva Aleixo Ignacio",
+    "perfil": "Competidor",
+    "ocupacao": "Construção em Alvenaria",
+    "skillNumber": "20",
+    "instituicao": "SENAI Paraná",
+    "local": "Saint Gobain - Jandira - SP",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/571f29b6a72eab97.bin"
+   }
+  ]
+ },
+ "comp:22": {
+  "name": "Guilherme Rodrigues Lunardi",
+  "n": 21,
+  "recs": [
+   {
+    "nome": "Guilherme Rodrigues Lunardi",
+    "perfil": "Competidor",
+    "ocupacao": "Sistemas Drywall",
+    "skillNumber": "21",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7fc31efa6f12a7a1.bin"
+   }
+  ]
+ },
+ "comp:23": {
+  "name": "Izabela Lopes Lima",
+  "n": 22,
+  "recs": [
+   {
+    "nome": "Izabela Lopes Lima",
+    "perfil": "Competidor",
+    "ocupacao": "Pintura Decorativa",
+    "skillNumber": "22",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Saint Gobain - Jandira - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/b29cc60f365e2c97.bin"
+   }
+  ]
+ },
+ "comp:24": {
+  "name": "Artur Barud",
+  "n": 23,
+  "recs": [
+   {
+    "nome": "Arthur Barud",
+    "perfil": "Competidor",
+    "ocupacao": "Robótica Móvel Autônoma",
+    "skillNumber": "23",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4ba719882db215fb.bin"
+   }
+  ]
+ },
+ "comp:25": {
+  "name": "Gustavo Gabriel Dutra Alves",
+  "n": 23,
+  "recs": [
+   {
+    "nome": "Gustavo Alves",
+    "perfil": "Competidor",
+    "ocupacao": "Robótica Móvel Autônoma",
+    "skillNumber": "23",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4ef5de959ea605f0.bin"
+   }
+  ]
+ },
+ "comp:26": {
+  "name": "Enzo Thomaz Pasito",
+  "n": 24,
+  "recs": [
+   {
+    "nome": "Enzo Thomaz Pasito",
+    "perfil": "Competidor",
+    "ocupacao": "Movelaria",
+    "skillNumber": "24",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a7b889030a0fa65f.bin"
+   }
+  ]
+ },
+ "comp:27": {
+  "name": "João Vitor Corrêa Maul",
+  "n": 25,
+  "recs": [
+   {
+    "nome": "João Vitor Correa Maul",
+    "perfil": "Competidor",
+    "ocupacao": "Marcenaria de Estruturas",
+    "skillNumber": "25",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6151e592d28c5c4c.bin"
+   }
+  ]
+ },
+ "comp:28": {
+  "name": "Phelipe Santana Galindo",
+  "n": 26,
+  "recs": [
+   {
+    "nome": "Phelipe Santana Galindo",
+    "perfil": "Competidor",
+    "ocupacao": "Carpintaria",
+    "skillNumber": "26",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4c1d73c14771278b.bin"
+   }
+  ]
+ },
+ "comp:29": {
+  "name": "Ronie Henrique de Almeida",
+  "n": 27,
+  "recs": [
+   {
+    "nome": "Ronie Almeida",
+    "perfil": "Competidor",
+    "ocupacao": "Joalheria",
+    "skillNumber": "27",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/1efb3df11e4f3522.bin"
+   }
+  ]
+ },
+ "comp:33": {
+  "name": "Myllena Vitória de Arruda Nogueira",
+  "n": 31,
+  "recs": [
+   {
+    "nome": "Myllena Vitória De Arruda Nogueira",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia da Moda",
+    "skillNumber": "31",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d495344d6a8c9591.bin"
+   }
+  ]
+ },
+ "comp:34": {
+  "name": "Maria Luiza Silva Alves",
+  "n": 32,
+  "recs": [
+   {
+    "nome": "Maria Alves",
+    "perfil": "Competidor",
+    "ocupacao": "Confeitaria",
+    "skillNumber": "32",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "São Paulo - SP - SENAI Barra Funda",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/fe2f29c95ce7cdf8.bin"
+   }
+  ]
+ },
+ "comp:35": {
+  "name": "Kauan Henrique Martinello Nazario",
+  "n": 33,
+  "recs": [
+   {
+    "nome": "Kauan Henrique Martinello Nazario",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia Automotiva",
+    "skillNumber": "33",
+    "instituicao": "SENAI Paraná",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/25bae4e1f4f51162.bin"
+   }
+  ]
+ },
+ "comp:38": {
+  "name": "Lucas Fonseca Marques",
+  "n": 36,
+  "recs": [
+   {
+    "nome": "Lucas Fonseca Marques",
+    "perfil": "Competidor",
+    "ocupacao": "Pintura Automotiva",
+    "skillNumber": "36",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a3719629d8c4ad8f.bin"
+   }
+  ]
+ },
+ "comp:39": {
+  "name": "Leticia Gabrielle dos Santos Rosa",
+  "n": 37,
+  "recs": [
+   {
+    "nome": "Letícia Rosa",
+    "perfil": "Competidor",
+    "ocupacao": "Construção de Espaços Verdes",
+    "skillNumber": "37",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e6936a2acc6065d2.bin"
+   }
+  ]
+ },
+ "comp:40": {
+  "name": "Juan Pablo Ramos de Souza",
+  "n": 37,
+  "recs": [
+   {
+    "nome": "Juan Souza",
+    "perfil": "Competidor",
+    "ocupacao": "Construção de Espaços Verdes",
+    "skillNumber": "37",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7c58b6ec548a4bf1.bin"
+   }
+  ]
+ },
+ "comp:41": {
+  "name": "Keyla Carvalho Dias",
+  "n": 38,
+  "recs": [
+   {
+    "nome": "Keyla Carvalho Dias",
+    "perfil": "Competidor",
+    "ocupacao": "Sistemas de Refrigeração",
+    "skillNumber": "38",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4fdf480adb6e097d.bin"
+   }
+  ]
+ },
+ "comp:42": {
+  "name": "Luan Antunes Batista",
+  "n": 39,
+  "recs": [
+   {
+    "nome": "Luan Batista",
+    "perfil": "Competidor",
+    "ocupacao": "Gestão de Sistemas de Redes TI",
+    "skillNumber": "39",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Caetano do Sul - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/78df5fbb8e0dc415.bin"
+   }
+  ]
+ },
+ "comp:43": {
+  "name": "Brenda Gomes Virgens",
+  "n": 40,
+  "recs": [
+   {
+    "nome": "Brenda Gomes Virgens",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia em Design Gráfico",
+    "skillNumber": "40",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/9dfc48458373c1b2.bin"
+   }
+  ]
+ },
+ "comp:49": {
+  "name": "Geovanny Gabriel Quirino Das Neves",
+  "n": 46,
+  "recs": [
+   {
+    "nome": "Geovanny Gabrile Quirino Das Neves",
+    "perfil": "Competidor",
+    "ocupacao": "Construção de Espaços Verdes",
+    "skillNumber": "37",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d90ff4950134718b.bin"
+   }
+  ]
+ },
+ "comp:50": {
+  "name": "Paulo Eduardo Nascimento de Jesus",
+  "n": 46,
+  "recs": [
+   {
+    "nome": "Paulo Eduardo Nascimento De Jesus",
+    "perfil": "Competidor",
+    "ocupacao": "Construção de Espaços Verdes",
+    "skillNumber": "37",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/c685f444cde9508d.bin"
+   }
+  ]
+ },
+ "comp:51": {
+  "name": "Raiane Vitoria Suith Alves",
+  "n": 47,
+  "recs": [
+   {
+    "nome": "Raiane Vitoria Suith Alves",
+    "perfil": "Competidor",
+    "ocupacao": "Panificação",
+    "skillNumber": "47",
+    "instituicao": "SENAI São Paulo",
+    "local": "Belo Horizonte - MG SENAI ARG",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/305900900c020f2d.bin"
+   }
+  ]
+ },
+ "comp:52": {
+  "name": "Gustavo Vitor Martins Pereira de Sousa",
+  "n": 48,
+  "recs": [
+   {
+    "nome": "Gustavo De Sousa",
+    "perfil": "Competidor",
+    "ocupacao": "Indústria 4.0",
+    "skillNumber": "48",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/775847b62b51b1e8.bin"
+   }
+  ]
+ },
+ "comp:53": {
+  "name": "João Victor Caliaro Fonseca",
+  "n": 48,
+  "recs": [
+   {
+    "nome": "João Victor Caliaro",
+    "perfil": "Competidor",
+    "ocupacao": "Indústria 4.0",
+    "skillNumber": "48",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a59f31fad86e6eae.bin"
+   }
+  ]
+ },
+ "comp:54": {
+  "name": "Diogo Mathias",
+  "n": 49,
+  "recs": [
+   {
+    "nome": "Diogo Mathias",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia de Veículos Pesados",
+    "skillNumber": "49",
+    "instituicao": "SENAI São Paulo",
+    "local": "Ribeirão Preto - SP - SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/202f114c0734e8a2.bin"
+   }
+  ]
+ },
+ "comp:55": {
+  "name": "Giovanna Candido da Silva",
+  "n": 50,
+  "recs": [
+   {
+    "nome": "Giovanna Candido Da Silva",
+    "perfil": "Competidor",
+    "ocupacao": "Arte Digital 3D para Jogos",
+    "skillNumber": "50",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/330f3811faa1f1b2.bin"
+   }
+  ]
+ },
+ "comp:56": {
+  "name": "Maria Eduarda Alves Lourenço",
+  "n": 51,
+  "recs": [
+   {
+    "nome": "Maria Eduarda Alves Lourenço",
+    "perfil": "Competidor",
+    "ocupacao": "Logística & Envios Internacionais",
+    "skillNumber": "51",
+    "instituicao": "SENAI São Paulo",
+    "local": "Digital (online)",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/dfad929e67b70d16.bin"
+   }
+  ]
+ },
+ "comp:57": {
+  "name": "João Victor Vieira Alves",
+  "n": 52,
+  "recs": [
+   {
+    "nome": "João Vieira",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia Química Laboratorial",
+    "skillNumber": "52",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/05c63d30423c2190.bin"
+   }
+  ]
+ },
+ "comp:58": {
+  "name": "Gabriel Henrique Gobato de Oliveira",
+  "n": 53,
+  "recs": [
+   {
+    "nome": "Gabriel Henrique Gobato De Oliveira",
+    "perfil": "Competidor",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Paraná",
+    "local": "Digital (online)",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/fe89efd340e1d370.bin"
+   }
+  ]
+ },
+ "comp:59": {
+  "name": "Arthur Abreu",
+  "n": 54,
+  "recs": [
+   {
+    "nome": "Arthur Abreu",
+    "perfil": "Competidor",
+    "ocupacao": "Segurança Cibernética",
+    "skillNumber": "54",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/1d790eab5e51a890.bin"
+   }
+  ]
+ },
+ "comp:60": {
+  "name": "João Carlos de Farias",
+  "n": 54,
+  "recs": [
+   {
+    "nome": "João Farias",
+    "perfil": "Competidor",
+    "ocupacao": "Segurança Cibernética",
+    "skillNumber": "54",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/488e9caf1a64e3a1.bin"
+   }
+  ]
+ },
+ "comp:61": {
+  "name": "Leonardo Santos Bertho",
+  "n": 55,
+  "recs": [
+   {
+    "nome": "Leonardo Santos Bertho",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia da Água",
+    "skillNumber": "55",
+    "instituicao": "SENAI Bahia",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6b1dbae75401914e.bin"
+   }
+  ]
+ },
+ "comp:63": {
+  "name": "Marcus Vinicius Santos Oliveira",
+  "n": 57,
+  "recs": [
+   {
+    "nome": "Marcus Vinicius",
+    "perfil": "Competidor",
+    "ocupacao": "Manufatura Aditiva",
+    "skillNumber": "57",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a5858ee0e9d23900.bin"
+   }
+  ]
+ },
+ "comp:64": {
+  "name": "Catarina Matos dos Santos Costa da Fonseca",
+  "n": 58,
+  "recs": [
+   {
+    "nome": "Catarina Fonseca",
+    "perfil": "Competidor",
+    "ocupacao": "Construção Digital – BIM",
+    "skillNumber": "58",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e53247f3813f2f79.bin"
+   }
+  ]
+ },
+ "comp:65": {
+  "name": "Rafael Seikiti Nishihara Candido",
+  "n": 59,
+  "recs": [
+   {
+    "nome": "Rafael Seikiti Nishihara Candido",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia em Design Industrial",
+    "skillNumber": "59",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/73c12a076fb8e5f8.bin"
+   }
+  ]
+ },
+ "comp:66": {
+  "name": "Kaique William Ventura Camacho",
+  "n": 60,
+  "recs": [
+   {
+    "nome": "Kaique William Ventura Camacho",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia Optoeletrônica",
+    "skillNumber": "60",
+    "instituicao": "SENAI Paraná",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e090126ed273a5a3.bin"
+   }
+  ]
+ },
+ "comp:67": {
+  "name": "João Vitor Da Silva Gomes",
+  "n": 61,
+  "recs": [
+   {
+    "nome": "João Vitor Da Silva Gomes",
+    "perfil": "Competidor",
+    "ocupacao": "Mecânica Industrial",
+    "skillNumber": "01",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/8754fbc22d87dcc1.bin"
+   }
+  ]
+ },
+ "comp:68": {
+  "name": "Kevin Gabriel Gonçalves Silva",
+  "n": 62,
+  "recs": [
+   {
+    "nome": "Kevin Gabriel Gonçalves Silva",
+    "perfil": "Competidor",
+    "ocupacao": "Tecnologia de Energia Verde",
+    "skillNumber": "62",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/163cd2a9a9258c1a.bin"
+   }
+  ]
+ },
+ "comp:69": {
+  "name": "Alexandre Isaque Almeida Rodrigues",
+  "n": 63,
+  "recs": [
+   {
+    "nome": "Alexandre Rodrigues",
+    "perfil": "Competidor",
+    "ocupacao": "Integração de Sistemas Robóticos",
+    "skillNumber": "63",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6ca212fd5a111a76.bin"
+   }
+  ]
+ },
+ "comp:70": {
+  "name": "Bruno Gabriel Soares de Oliveira",
+  "n": 63,
+  "recs": [
+   {
+    "nome": "Bruno Oliveira",
+    "perfil": "Competidor",
+    "ocupacao": "Integração de Sistemas Robóticos",
+    "skillNumber": "63",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/88beda7b727d9827.bin"
+   }
+  ]
+ },
+ "occ:2": {
+  "name": "Alef Amaral do Nascimento Souza",
+  "n": 37,
+  "recs": [
+   {
+    "nome": "Alef Amaral Do Nascimento Souza",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Construção de Espaços Verdes",
+    "skillNumber": "37",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4194142943c7f4d7.bin"
+   },
+   {
+    "nome": "Alef Amaral Do Nascimento Souza",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Construção Digital – BIM",
+    "skillNumber": "58",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4194142943c7f4d7.bin"
+   }
+  ]
+ },
+ "occ:3": {
+  "name": "Alex Luiz Canzi",
+  "n": 48,
+  "recs": [
+   {
+    "nome": "Alex Luiz Canzi",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Indústria 4.0",
+    "skillNumber": "48",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/19590d4653583e7c.bin"
+   },
+   {
+    "nome": "Alex Luiz Canzi",
+    "perfil": "Avaliador",
+    "ocupacao": "Integração de Sistemas Robóticos",
+    "skillNumber": "63",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/19590d4653583e7c.bin"
+   }
+  ]
+ },
+ "occ:4": {
+  "name": "Alex Luiz Canzi",
+  "n": 48,
+  "recs": [
+   {
+    "nome": "Alex Luiz Canzi",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Indústria 4.0",
+    "skillNumber": "48",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/19590d4653583e7c.bin"
+   },
+   {
+    "nome": "Alex Luiz Canzi",
+    "perfil": "Avaliador",
+    "ocupacao": "Integração de Sistemas Robóticos",
+    "skillNumber": "63",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/19590d4653583e7c.bin"
+   }
+  ]
+ },
+ "occ:5": {
+  "name": "Ana Beatriz Gondim Sampaio",
+  "n": 50,
+  "recs": [
+   {
+    "nome": "Ana Beatriz Gondim Sampaio",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Arte Digital 3D para Jogos",
+    "skillNumber": "50",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/bc9452207293a9c3.bin"
+   }
+  ]
+ },
+ "occ:9": {
+  "name": "André de Oliveira Sousa",
+  "n": 12,
+  "recs": [
+   {
+    "nome": "André De Oliveira Sousa",
+    "perfil": "Avaliador",
+    "ocupacao": "Construção em Alvenaria",
+    "skillNumber": "20",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Saint Gobain - Jandira - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e9284a43a596e65f.bin"
+   }
+  ]
+ },
+ "occ:11": {
+  "name": "André Ferreira Pinto Dias",
+  "n": 31,
+  "recs": [
+   {
+    "nome": "Andre Ferreira Pinto Dias",
+    "perfil": "Avaliador",
+    "ocupacao": "Arte Digital 3D para Jogos",
+    "skillNumber": "50",
+    "instituicao": "SENAI Paraná",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/eb9d6f7b4189051a.bin"
+   }
+  ]
+ },
+ "occ:12": {
+  "name": "André Luis Dono",
+  "n": 7,
+  "recs": [
+   {
+    "nome": "Andre Luis Dono",
+    "perfil": "Avaliador",
+    "ocupacao": "Fresagem a CNC",
+    "skillNumber": "07",
+    "instituicao": "SENAI São Paulo",
+    "local": "ROMI - Santa Bárbara D'Oeste - SP",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/4ae914b8e9f73475.bin"
+   }
+  ]
+ },
+ "occ:13": {
+  "name": "André Malta Peixoto",
+  "n": 5,
+  "recs": [
+   {
+    "nome": "André Malta Peixoto",
+    "perfil": "Avaliador",
+    "ocupacao": "Desenho Mecânico em CAD",
+    "skillNumber": "05",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Digital (online)",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7c8387c7bff243b8.bin"
+   }
+  ]
+ },
+ "occ:17": {
+  "name": "Betania Aparecida de Araujo Faria",
+  "n": 52,
+  "recs": [
+   {
+    "nome": "Betânia Faria",
+    "perfil": "Avaliador",
+    "ocupacao": "Tecnologia Química Laboratorial",
+    "skillNumber": "52",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/2ab6fca3255ee091.bin"
+   }
+  ]
+ },
+ "occ:18": {
+  "name": "Bianca Klempe Correa",
+  "n": 40,
+  "recs": [
+   {
+    "nome": "Bianca Klempe Corrêa",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Tecnologia em Design Gráfico",
+    "skillNumber": "40",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/b7e8b79184ffe8b6.bin"
+   }
+  ]
+ },
+ "occ:19": {
+  "name": "Bruno de Assis Coelho",
+  "n": 25,
+  "recs": [
+   {
+    "nome": "Bruno Coelho",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Movelaria",
+    "skillNumber": "24",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/82f652dd814c9ea8.bin"
+   }
+  ]
+ },
+ "occ:21": {
+  "name": "Bruno Pereira De Assis",
+  "n": 49,
+  "recs": [
+   {
+    "nome": "Bruno Pereira De Assis",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Tecnologia de Veículos Pesados",
+    "skillNumber": "49",
+    "instituicao": "SENAI São Paulo",
+    "local": "Ribeirão Preto - SP - SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/718343345cbaed2d.bin"
+   }
+  ]
+ },
+ "occ:22": {
+  "name": "Caio Freitas Silva",
+  "n": 36,
+  "recs": [
+   {
+    "nome": "Caio Freitas Silva",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Pintura Automotiva",
+    "skillNumber": "36",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e4956368f79a4f38.bin"
+   }
+  ]
+ },
+ "occ:24": {
+  "name": "Cláudio Cassemiro Nogueira",
+  "n": 15,
+  "recs": [
+   {
+    "nome": "Cláudio Cassemiro Nogueira",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Instalações Hidráulicas e de Aquecimento",
+    "skillNumber": "15",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/71569d812fcc7c8e.bin"
+   },
+   {
+    "nome": "Cláudio Cassemiro Nogueira",
+    "perfil": "Chefe de Oficina",
+    "ocupacao": "Sistemas de Refrigeração",
+    "skillNumber": "38",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/71569d812fcc7c8e.bin"
+   }
+  ]
+ },
+ "occ:28": {
+  "name": "Douglas Rodrigues da Silva",
+  "n": 13,
+  "recs": [
+   {
+    "nome": "Douglas Rodrigues Da Silva",
+    "perfil": "Avaliador",
+    "ocupacao": "Funilaria Automotiva",
+    "skillNumber": "13",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d4c7f2c256efa90c.bin"
+   }
+  ]
+ },
+ "occ:33": {
+  "name": "Eric Coimbra da Silva",
+  "n": 22,
+  "recs": [
+   {
+    "nome": "Eric Coimbra Silva",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Pintura Decorativa",
+    "skillNumber": "22",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Saint Gobain - Jandira - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/65f1bc793411ebd3.bin"
+   },
+   {
+    "nome": "Eric Coimbra Silva",
+    "perfil": "Chefe de Oficina",
+    "ocupacao": "Construção Digital – BIM",
+    "skillNumber": "58",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/65f1bc793411ebd3.bin"
+   }
+  ]
+ },
+ "occ:34": {
+  "name": "Fabiano Netto Frazão",
+  "n": 10,
+  "recs": [
+   {
+    "nome": "Fabiano Netto Frazão",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Soldagem",
+    "skillNumber": "10",
+    "instituicao": "SENAI Rio de Janeiro",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_RJ_Ind) SENAI Rio de Janeiro",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/54c6105c1290ce62.bin"
+   }
+  ]
+ },
+ "occ:37": {
+  "name": "Fernanda do Amor Divino Cerqueira",
+  "n": 55,
+  "recs": [
+   {
+    "nome": "Fernanda Do Amor Divino Cerqueira",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Tecnologia da Água",
+    "skillNumber": "55",
+    "instituicao": "SENAI Bahia",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/06567da99f0124d7.bin"
+   },
+   {
+    "nome": "Fernanda Do Amor Divino Cerqueira",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Tecnologia Química Laboratorial",
+    "skillNumber": "52",
+    "instituicao": "SENAI Bahia",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/06567da99f0124d7.bin"
+   }
+  ]
+ },
+ "occ:38": {
+  "name": "Filipe Dias Pereira",
+  "n": 58,
+  "recs": [
+   {
+    "nome": "Filipe Dias Pereira",
+    "perfil": "Avaliador",
+    "ocupacao": "Construção Digital – BIM",
+    "skillNumber": "58",
+    "instituicao": "SENAI Rio de Janeiro",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_RJ_Ind) SENAI Rio de Janeiro",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/73162a2e95b99b5e.bin"
+   }
+  ]
+ },
+ "occ:40": {
+  "name": "Frederico Augusto Cardoso Diniz",
+  "n": 11,
+  "recs": [
+   {
+    "nome": "Frederico Diniz",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Desenvolvimento de Aplicativos Móveis",
+    "skillNumber": "08",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e9623029bc9bde1c.bin"
+   }
+  ]
+ },
+ "occ:42": {
+  "name": "Geraldo Cesar Gontijo Sousa",
+  "n": 63,
+  "recs": [
+   {
+    "nome": "Geraldo Cesar Gontijo Sousa",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Integração de Sistemas Robóticos",
+    "skillNumber": "63",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/133f69177a568bcb.bin"
+   }
+  ]
+ },
+ "occ:43": {
+  "name": "Guilherme Felipe Pires",
+  "n": 45,
+  "recs": [
+   {
+    "nome": "Guilherme Felipe Pires",
+    "perfil": "Avaliador",
+    "ocupacao": "Tecnologia em Design Industrial",
+    "skillNumber": "59",
+    "instituicao": "SENAI Paraná",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/071871c7069178c7.bin"
+   },
+   {
+    "nome": "Guilherme Felipe Pires",
+    "perfil": "Chefe de Equipe",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Paraná",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/071871c7069178c7.bin"
+   }
+  ]
+ },
+ "occ:47": {
+  "name": "Henrique Sobrinho Menezes",
+  "n": 59,
+  "recs": [
+   {
+    "nome": "Henrique Menezes",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Tecnologia em Design Industrial",
+    "skillNumber": "59",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e07a5161a4162718.bin"
+   }
+  ]
+ },
+ "occ:51": {
+  "name": "Jorge Enjiu Junior",
+  "n": 20,
+  "recs": [
+   {
+    "nome": "Jorge Enjiu Junior",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Construção em Alvenaria",
+    "skillNumber": "20",
+    "instituicao": "SENAI Paraná",
+    "local": "Saint Gobain - Jandira - SP",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aa4a71d4fd4c7739.bin"
+   },
+   {
+    "nome": "Jorge Enjiu Junior",
+    "perfil": "Avaliador",
+    "ocupacao": "Revestimentos Cerâmicos",
+    "skillNumber": "12",
+    "instituicao": "SENAI Paraná",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aa4a71d4fd4c7739.bin"
+   },
+   {
+    "nome": "Jorge Enjiu Junior",
+    "perfil": "Avaliador",
+    "ocupacao": "Sistemas Drywall",
+    "skillNumber": "21",
+    "instituicao": "SENAI Paraná",
+    "local": "Betim - MG SENAI",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aa4a71d4fd4c7739.bin"
+   }
+  ]
+ },
+ "occ:52": {
+  "name": "Jose Eduardo Silva Valerio",
+  "n": 61,
+  "recs": [
+   {
+    "nome": "José Eduardo Silva Valerio",
+    "perfil": "Avaliador",
+    "ocupacao": "Manufatura Aditiva",
+    "skillNumber": "57",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/0d5e94cc3f099f1d.bin"
+   }
+  ]
+ },
+ "occ:53": {
+  "name": "José Marcelo Morima Lima Rodrigues",
+  "n": 61,
+  "recs": [
+   {
+    "nome": "José Marcelo Morimã Lima Rodrigues",
+    "perfil": "Avaliador",
+    "ocupacao": "Desenho Mecânico em CAD",
+    "skillNumber": "05",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Digital (online)",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/117edbefd2d5a3df.bin"
+   }
+  ]
+ },
+ "occ:54": {
+  "name": "Josemar Monteiro Silva",
+  "n": 39,
+  "recs": [
+   {
+    "nome": "Josemar Monteiro Silva",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Gestão de Sistemas de Redes TI",
+    "skillNumber": "39",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Caetano do Sul - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7413cea137b3b751.bin"
+   }
+  ]
+ },
+ "occ:56": {
+  "name": "Kennedy Yoshinori de Souza Yamashita",
+  "n": 1,
+  "recs": [
+   {
+    "nome": "Kennedy Yamashita",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Mecânica Industrial",
+    "skillNumber": "01",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7ae4f9c0dc49471a.bin"
+   }
+  ]
+ },
+ "occ:57": {
+  "name": "Leandro Wagner",
+  "n": 38,
+  "recs": [
+   {
+    "nome": "Leandro Wagner",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Sistemas de Refrigeração",
+    "skillNumber": "38",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/92ec97bd95e5fa94.bin"
+   }
+  ]
+ },
+ "occ:58": {
+  "name": "Leonardo Kazuo Rodrigues do Couto",
+  "n": 60,
+  "recs": [
+   {
+    "nome": "Leonardo Kazuo Rodrigues Do Couto",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Tecnologia Optoeletrônica",
+    "skillNumber": "60",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aa31cecb019cc2fa.bin"
+   },
+   {
+    "nome": "Leonardo Kazuo Rodrigues Do Couto",
+    "perfil": "Avaliador",
+    "ocupacao": "Instalações Elétricas",
+    "skillNumber": "18",
+    "instituicao": "SENAI São Paulo",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aa31cecb019cc2fa.bin"
+   }
+  ]
+ },
+ "occ:59": {
+  "name": "Lidiane dos Santos Orti",
+  "n": 9,
+  "recs": [
+   {
+    "nome": "Lidiane Orti",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Soluções em Softwares para Negócios",
+    "skillNumber": "09",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Caetano do Sul - SP SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/1ba36874e189c256.bin"
+   }
+  ]
+ },
+ "occ:60": {
+  "name": "Lucas Henrique Silva de Alcantara",
+  "n": 47,
+  "recs": [
+   {
+    "nome": "Lucas Alcantara",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Panificação",
+    "skillNumber": "47",
+    "instituicao": "SENAI São Paulo",
+    "local": "Belo Horizonte - MG SENAI ARG",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6df81570505b8d2d.bin"
+   }
+  ]
+ },
+ "occ:63": {
+  "name": "Luiz Augusto Cardozo Navazello",
+  "n": 24,
+  "recs": [
+   {
+    "nome": "Luiz Augusto Cardozo Navazello",
+    "perfil": "Avaliador",
+    "ocupacao": "Marcenaria de Estruturas",
+    "skillNumber": "25",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/fb28be82d02ebfb3.bin"
+   }
+  ]
+ },
+ "occ:64": {
+  "name": "Luiz Fernando Silva Zanini",
+  "n": 16,
+  "recs": [
+   {
+    "nome": "Luiz Fernando Silva Zanini",
+    "perfil": "Avaliador",
+    "ocupacao": "Eletrônica",
+    "skillNumber": "16",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/eeb143f8561b0bb7.bin"
+   }
+  ]
+ },
+ "occ:66": {
+  "name": "Magdiel Jose da Silva",
+  "n": 64,
+  "recs": [
+   {
+    "nome": "Magdiel Silva",
+    "perfil": "Avaliador",
+    "ocupacao": "Desenho Mecânico em CAD",
+    "skillNumber": "05",
+    "instituicao": "SENAI Pernambuco",
+    "local": "Digital (online)",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/a0a99abc4dd2ef9b.bin"
+   }
+  ]
+ },
+ "occ:70": {
+  "name": "Mateus Bosco Ferraz",
+  "n": 27,
+  "recs": [
+   {
+    "nome": "Mateus Bosco Ferraz",
+    "perfil": "Avaliador",
+    "ocupacao": "Joalheria",
+    "skillNumber": "27",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/ea379998f8376e68.bin"
+   }
+  ]
+ },
+ "occ:74": {
+  "name": "Nathany Pereira Vianna Rosado",
+  "n": 5,
+  "recs": [
+   {
+    "nome": "Nathany Pereira Vianna Rosado",
+    "perfil": "Avaliador",
+    "ocupacao": "Panificação",
+    "skillNumber": "47",
+    "instituicao": "SENAI Rio de Janeiro",
+    "local": "Belo Horizonte - MG SENAI ARG",
+    "grupo": "(BR_RJ_Ind) SENAI Rio de Janeiro",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/fd3119f239d0b20d.bin"
+   }
+  ]
+ },
+ "occ:77": {
+  "name": "Ricardo Francisco de Angelis",
+  "n": 17,
+  "recs": [
+   {
+    "nome": "Ricardo De Angelis",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Construção Digital – BIM",
+    "skillNumber": "58",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/960bf766c30c56ea.bin"
+   }
+  ]
+ },
+ "occ:78": {
+  "name": "Rodrigo Smiderle Bremm",
+  "n": 3,
+  "recs": [
+   {
+    "nome": "Rodrigo Smiderle Bremm",
+    "perfil": "Avaliador",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Digital (online)",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d6698ee883ed6006.bin"
+   }
+  ]
+ },
+ "occ:82": {
+  "name": "Samanta Roveri",
+  "n": 51,
+  "recs": [
+   {
+    "nome": "Samanta Roveri",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Logística & Envios Internacionais",
+    "skillNumber": "51",
+    "instituicao": "SENAI São Paulo",
+    "local": "Digital (online)",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/18e7907ffa83eff0.bin"
+   }
+  ]
+ },
+ "occ:83": {
+  "name": "Samuel Gonçalves Mordente",
+  "n": 10,
+  "recs": [
+   {
+    "nome": "Samuel Gonçalves Mordente",
+    "perfil": "Avaliador",
+    "ocupacao": "Arte Digital 3D para Jogos",
+    "skillNumber": "50",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/c9a42c5bfe9abab7.bin"
+   }
+  ]
+ },
+ "occ:86": {
+  "name": "Sidnei Rosso Serafim",
+  "n": 18,
+  "recs": [
+   {
+    "nome": "Sidnei Serafim",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Instalações Elétricas",
+    "skillNumber": "18",
+    "instituicao": "SENAI Rio Grande do Sul",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_RS_Ind) SENAI Rio Grande do Sul",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/ebefb08eec006dcd.bin"
+   }
+  ]
+ },
+ "occ:91": {
+  "name": "Thaylon Roberto Muniz da Silva",
+  "n": 54,
+  "recs": [
+   {
+    "nome": "Thaylon Roberto Muniz Da Silva",
+    "perfil": "Avaliador",
+    "ocupacao": "Segurança Cibernética",
+    "skillNumber": "54",
+    "instituicao": "SENAI Distrito Federal",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_DF_Ind) SENAI Distrito Federal",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/aac51caa82e398d6.bin"
+   }
+  ]
+ },
+ "occ:92": {
+  "name": "Thiago Geremias de Oliveira",
+  "n": 53,
+  "recs": [
+   {
+    "nome": "Thiago Geremias De Oliveira",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Santa Catarina",
+    "local": "Digital (online)",
+    "grupo": "(BR_SC_Ind) SENAI Santa Catarina",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/e1ff169c0e5fd8dc.bin"
+   }
+  ]
+ },
+ "occ:93": {
+  "name": "Thiago Rocha do Nascimento",
+  "n": 27,
+  "recs": [
+   {
+    "nome": "Thiago Nascimento",
+    "perfil": "Chefe de Oficina",
+    "ocupacao": "Gestão de Sistemas de Redes TI",
+    "skillNumber": "39",
+    "instituicao": "WorldSkills Brasil",
+    "local": "São Caetano do Sul - SP SENAI",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/736e77d63fd9a14f.bin"
+   }
+  ]
+ },
+ "occ:94": {
+  "name": "Tiago Pereira Ramos",
+  "n": 8,
+  "recs": [
+   {
+    "nome": "Tiago Pereira Ramos",
+    "perfil": "Avaliador Líder Adjunto",
+    "ocupacao": "Desenvolvimento de Aplicativos Móveis",
+    "skillNumber": "08",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/8448d39cc0e1e714.bin"
+   }
+  ]
+ },
+ "occ:95": {
+  "name": "Vinícius Person de Oliveira",
+  "n": 63,
+  "recs": [
+   {
+    "nome": "Vinícius Person De Oliveira",
+    "perfil": "Chefe de Oficina",
+    "ocupacao": "Robótica Móvel Autônoma",
+    "skillNumber": "23",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/2e70c47ef4bcdf75.bin"
+   }
+  ]
+ },
+ "occ:97": {
+  "name": "Vitor Hugo Alves Vieira",
+  "n": 48,
+  "recs": [
+   {
+    "nome": "Vitor Hugo Alves Vieira",
+    "perfil": "Avaliador",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Digital (online)",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/f6f7e0b519e4fa0c.bin"
+   },
+   {
+    "nome": "Vitor Hugo Alves Vieira",
+    "perfil": "Avaliador",
+    "ocupacao": "Segurança Cibernética",
+    "skillNumber": "54",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/f6f7e0b519e4fa0c.bin"
+   }
+  ]
+ },
+ "occ:101": {
+  "name": "Waldemar Furbringer",
+  "n": 26,
+  "recs": [
+   {
+    "nome": "Waldemar Furbringer",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Carpintaria",
+    "skillNumber": "26",
+    "instituicao": "SENAI São Paulo",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/5df667db7ac64aad.bin"
+   }
+  ]
+ },
+ "occ:103": {
+  "name": "Wesdra de Araujo Silva",
+  "n": 57,
+  "recs": [
+   {
+    "nome": "Wesdra Silva",
+    "perfil": "Avaliador",
+    "ocupacao": "Sistemas de Refrigeração",
+    "skillNumber": "38",
+    "instituicao": "SENAI Pernambuco",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/15a59cbcacda2f69.bin"
+   }
+  ]
+ },
+ "occ:104": {
+  "name": "Willian Horing Azambuja",
+  "n": 15,
+  "recs": [
+   {
+    "nome": "Willian Horing Azambuja",
+    "perfil": "Avaliador",
+    "ocupacao": "Robótica Móvel Autônoma",
+    "skillNumber": "23",
+    "instituicao": "SENAI Mato Grosso",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_MT_Ind) SENAI Mato Grosso",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/55b153bb1dae9229.bin"
+   }
+  ]
+ },
+ "occ:107": {
+  "name": "Hugo Nakatani",
+  "n": 19,
+  "recs": [
+   {
+    "nome": "Hugo Nakatani",
+    "perfil": "Staff",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7ed396fe6e7d7a67.bin"
+   }
+  ]
+ },
+ "occ:109": {
+  "name": "Emanoel Marques Silva de Lima",
+  "n": 2,
+  "recs": [
+   {
+    "nome": "Emanoel Marques Silva De Lima",
+    "perfil": "Delegado Técnico Adjunto",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Pernambuco",
+    "local": "",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/5efb11769e76e7c1.bin"
+   },
+   {
+    "nome": "Emanoel Marques Silva De Lima",
+    "perfil": "Avaliador",
+    "ocupacao": "Computação em Nuvem",
+    "skillNumber": "53",
+    "instituicao": "SENAI Pernambuco",
+    "local": "Digital (online)",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/20f1197eb39b62f5.bin"
+   }
+  ]
+ },
+ "gen:0": {
+  "name": "Anderson Garcia Scarlassara",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Anderson Scarlassara",
+    "perfil": "Coordenador Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/31caa0e86c904158.bin"
+   }
+  ]
+ },
+ "gen:2": {
+  "name": "Eliseia Candida da Silva Tavares",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Eliseia Tavares",
+    "perfil": "Delegado Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Distrito Federal",
+    "local": "",
+    "grupo": "(BR_DF_Ind) SENAI Distrito Federal",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/1c1f791cbda3d883.bin"
+   }
+  ]
+ },
+ "gen:3": {
+  "name": "Elisiê Coelho Lima",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Elisie Lima",
+    "perfil": "Coordenador Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/0e7de8e265f4bc43.bin"
+   }
+  ]
+ },
+ "gen:4": {
+  "name": "Flaudilenio Eduardo Lima",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Flaudilenio Eduardo Lima",
+    "perfil": "Delegado Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7b05aa7ba2276298.bin"
+   }
+  ]
+ },
+ "gen:5": {
+  "name": "Jeferson Leandro Mateucci",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Jeferson Mateucci",
+    "perfil": "Coordenador Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/50d0c7301a6e3675.bin"
+   }
+  ]
+ },
+ "gen:6": {
+  "name": "Julyana Carvalho Leite",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Julyana Carvalho Leite",
+    "perfil": "Delegado Técnico",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Pernambuco",
+    "local": "",
+    "grupo": "(BR_PE_Ind) SENAI Pernambuco",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/7855df27a3f2eb69.bin"
+   }
+  ]
+ },
+ "gen:7": {
+  "name": "Sherman Willian Mukoyama",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Sherman Willian Mukoyama",
+    "perfil": "Delegado Técnico Adjunto",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI São Paulo",
+    "local": "",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/d637a4fe5a4968fb.bin"
+   }
+  ]
+ },
+ "gen:8": {
+  "name": "Vinicius Correa Ribeiro",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Vinicius Correa Ribeiro",
+    "perfil": "Chefe de Equipe",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI São Paulo",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/02e33a80fc0d68b1.bin"
+   }
+  ]
+ },
+ "gen:11": {
+  "name": "Rosangela Maria Costa",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Rosangela Costa",
+    "perfil": "Assessoria Executiva",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "WorldSkills Brasil",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "WorldSkills Brasil",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/030c8fc679233bc8.bin"
+   }
+  ]
+ },
+ "gen:13": {
+  "name": "Rogério Rodrigues Herrera Leite",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Rogerio Rodrigues Herrera Leite",
+    "perfil": "Avaliador",
+    "ocupacao": "Tecnologia Automotiva",
+    "skillNumber": "33",
+    "instituicao": "SENAI São Paulo",
+    "local": "São Paulo - SP SENAI Ipiranga",
+    "grupo": "(BR_SP_Ind) SENAI São Paulo",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/471b12095150e0d4.bin"
+   }
+  ]
+ },
+ "gen:15": {
+  "name": "Thiago de Almeida Alves",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Thiago Alves",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Tornearia a CNC",
+    "skillNumber": "06",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "ROMI - Santa Bárbara D'Oeste - SP",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/37eb6954a275ad3e.bin"
+   }
+  ]
+ },
+ "gen:16": {
+  "name": "Weslen Pereira Santana",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Weslen Santana",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Marcenaria de Estruturas",
+    "skillNumber": "25",
+    "instituicao": "SENAI Minas Gerais",
+    "local": "Contagem - MG SENAI CEDETEM",
+    "grupo": "(BR_MG_Ind) SENAI Minas Gerais",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/9a3b2e80c40608c3.bin"
+   }
+  ]
+ },
+ "gen:17": {
+  "name": "Alan Cadmo Morales Barriento",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Alan Barriento",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Tecnologia de Energia Verde",
+    "skillNumber": "62",
+    "instituicao": "SENAI Paraná",
+    "local": "Sertãozinho - SP SENAI",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/2b5131e66af5f77d.bin"
+   },
+   {
+    "nome": "Alan Barriento",
+    "perfil": "Chefe de Equipe",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Paraná",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_PR_Ind) SENAI Paraná",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/2b5131e66af5f77d.bin"
+   }
+  ]
+ },
+ "gen:19": {
+  "name": "Gustavo Gomes Fernandes",
+  "n": null,
+  "recs": [
+   {
+    "nome": "Gustavo Gomes Fernandes",
+    "perfil": "Avaliador",
+    "ocupacao": "Mecatrônica",
+    "skillNumber": "04",
+    "instituicao": "SENAI Bahia",
+    "local": "FESTO - São Caetano do Sul - SP",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6a6c894aa18a1a9f.bin"
+   },
+   {
+    "nome": "Gustavo Gomes Fernandes",
+    "perfil": "Avaliador Líder",
+    "ocupacao": "Robótica Móvel Autônoma",
+    "skillNumber": "23",
+    "instituicao": "SENAI Bahia",
+    "local": "Brasília - DF C.C.Ulysses Guimarães",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6a6c894aa18a1a9f.bin"
+   },
+   {
+    "nome": "Gustavo Gomes Fernandes",
+    "perfil": "Delegado Técnico Adjunto",
+    "ocupacao": "",
+    "skillNumber": "",
+    "instituicao": "SENAI Bahia",
+    "local": "",
+    "grupo": "(BR_BA_Ind) SENAI Bahia",
+    "empresa": "",
+    "empresa_suspeita": false,
+    "foto_raw": "../worldskills-br-2025-dashboard/data/raw/6a6c894aa18a1a9f.bin"
+   }
+  ]
+ }
+}
